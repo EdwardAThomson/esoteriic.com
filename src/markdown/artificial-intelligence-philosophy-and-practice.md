@@ -13,11 +13,15 @@ I've been having a lot of fun with AI-assisted coding. It isn't pure "vibe codin
 
 I believe that those who hate AI often don't adequately understand the technology. A perfect example: in June 2025, a [study](https://arxiv.org/abs/2506.08872) was making the rounds that supposedly proves "AI = Everyone will get dumber." Almost all comments I saw amounted to "omg so true 100%." The irony is palpable - people complaining that "AI will make you dumber" while displaying zero critical thought when criticizing AI.
 
+What such research and comments don't account for is that some people *have* to think. Some of us (call us "compulsive analyzers," "informational omnivores," or "autists" in the colloquial sense) experience discomfort when we don't mull ideas. For us, the temptation to off-load everything is weaker, and when we do off-load, we often reinvest the freed bandwidth in higher-order reflection.
+
 While there's truth in the article, there's crucial nuance buried deep in the report on page 139 (out of 206):
 
 > "Brain-only writers who later added ChatGPT actually showed enhanced posterior–prefrontal coupling (Session 4)."
 
 In other words: **Learning first, automation second = cognitive dividend.**
+
+This insight has important implications for educational policy: teach kids to work without AI first to learn foundational skills, but don't completely remove AI tools. I haven't seen any educational professional advocate that we should *only* rely on AI, so concerns about future generations becoming cognitively dependent may be overblown.
 
 AI isn't brain rot; it's a mirror. If you skip the heavy lifting, it happily keeps the bar low. Sweat through the first reps yourself, then let AI boost - not replace - your cognition.
 
