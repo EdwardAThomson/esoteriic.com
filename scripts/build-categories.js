@@ -19,6 +19,12 @@ function formatCategoryName(category) {
     if (category === 'blockchain-and-cryptocurrency') {
         return 'Blockchain and Cryptocurrency';
     }
+    if (category === 'creative-writing') {
+        return 'Creative Writing';
+    }
+    if (category === 'writing-craft') {
+        return 'Writing Craft';
+    }
     
     // Default formatting: replace hyphens with spaces and capitalize
     return category.replace(/-/g, ' ').replace(/\b\w/g, l => l.toUpperCase());

@@ -1,0 +1,30 @@
+---
+title: "The background to my sci-fi Universe (novel)"
+date: 2013-10-27T00:00:00.000Z
+category: writing-craft
+tags:
+  - "faster-than-light"
+  - "future-tech"
+  - "hacking"
+  - "nanowrimo"
+  - "novel"
+  - "science-fiction"
+---
+
+So I’m finally getting around to chatting about the sci-fi Universe I’ve created. As I said in my first post on this blog I originally created the universe in my teens and have writing a novel on-and-off for the last 10 years. What originally start as a custom made RPG became an (incomplete) novel. About a year ago I decide to create short stories (might have been for nanowrimo actually) in that Universe with the aim of getting those self-published and to be shared with anyone who is interested. I will refer back to my previous blog posts and try to show how they weave together into a greater story. Hopefully this helps get me into the zone for this year’s NaNoWriMo too.
+
+Main thread
+The centre stage for the Universe is actually a particular galaxy and even more particular is the main federation that I have tentatively named Terosan (I created the name years ago but it seems other have used a similar name — try Googling). This federation is the majority power in its galaxy who dominate at least half of the map. Their capital world bears the same name and is a Corsucant (see StarWars) inspired planet that is almost entirely covered by buildings. The system of government is democratic with something similar to the US senate house. There are obvious parallels with the real world that I hope will be familiar and hence help to ease the reader into immersion better. As you may be already expecting this government also has a large military with several hundred starships, if we include the small ships then probably tens of thousands would be a more accurate number. Influence / power is derived some such a large active military, one which is well organized and cohesive too. Naturally, this ought to conjure up the idea of a “democratic imperium”.
+
+The major relationships in this galaxy are between Terosan and the large consortium of corporate planet who are collectively known as Kyopix. The latter were once wealthy Terosan merchants but broke away to form their own “civilization”. Their rules are less restrictive, as they see it. There is still a lot of trade between the two and hostility is mostly confined to heated arguments diplomacy. Kyopix has a less powerful military but they do maintain influence through their wealth and resources. Within the ‘borders’ of these two ’empires’ control is near 100%, outside the borders are a slew of independent planets that haven’t been conquered. They survive by being far enough away from Terosan Prime (the capital world) that their capture would be expensive or difficult to manage the taxes etc. Kyopix are less about conquering and more about trading, so they are keen to trade with the independent planets rather than attack. This covers the main dynamic of the galaxy.
+
+There is one more civilization to consider and that is the mysterious Hayf Empire who I alluded to in my previously posted short story “Pirate Queen”. Not much information has been given about them, and little is given away in the novel either. They are mostly reclusive and defensive, but have a military power beyond any other. In the novel, the Terosans have managed to strike a deal with the Hayf for the purchase of an inter-galactic propulsion system. This allows a starship to travel not from star to star but galaxy to galaxy. This technology is rare, complex to build and expensive to buy / maintain. Intra-galactic is mainly via jump-gates, which are big metal rings that bend space and propel craft to their destination (another jump-gate). Most ships are not powerful enough to carry their own faster-than-light drive, only the biggest ships can do that. This creates a dynamic where the ability to travel grants power. The novel already assumes that the trade between Terosan and Hayf has happened, it also assumes that Terosan has visited the nearest galaxy and that things a new tension has arisen.
+
+The short stories I’ve presented on my blog are prequels. They create the back-story and so provide a flavour or what is to come.
+
+Sub-threads
+The sub-threads all relate back to the main thread in one way or another. The link isn’t always obvious at first but it is definitely there. Some of the links may not be apparent in the novel, and so will only be revealed in a later book. I’m still figuring that all out.
+
+*Hackers*: this sub-thread occurs on the capital world: Terosan Prime. Given that most of the planet is urbanized, and that this is sci-fi, then clearly there is going to be a vast network like the internet. It needs to be more advanced than our current internet too, but I’ve struggled to capture the correct balance of realistic and fantastical. Basically, the planet’s inhabitants can put on visors and tap away at futuristic keyboards that take them into an online world. One which is a replica of the one they live in, but one which is also enhanced by rich meta-data. Oddly, the offline is also enriched by excessive electronics and connectivity. This story follows a small group of societal rejects who have begun notorious online trouble makers, they hack for fun and attempt to discover how their world is works. They explore the connections and relationships in order to gain a new insight on life. However, such a life is not without peril and people are easily lead astray when they believe themselves too powerful. On top of this, I suggest to my readers that hyper-connectivity may have consequences: how does a brain cope under the stress of excessive excitement?
+
+*“Pirate Queen”*: See my untitled short story posted here. The “Queen” is someone who grew up in independent space and after a rough and tumble childhood she grew to be a captain on a starship and command her own fleet. She’s often rude and obnoxious but commands a crew who is fiercely loyal, partly because they are well rewarded.
