@@ -25,6 +25,9 @@ function formatCategoryName(category) {
     if (category === 'writing-craft') {
         return 'Writing Craft';
     }
+    if (category === 'artificial-intelligence') {
+        return 'Artificial Intelligence';
+    }
     
     // Default formatting: replace hyphens with spaces and capitalize
     return category.replace(/-/g, ' ').replace(/\b\w/g, l => l.toUpperCase());

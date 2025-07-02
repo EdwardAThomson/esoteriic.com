@@ -7,7 +7,7 @@ description: "About Ed Thomson and Esoteriic.com - deciphering reality through m
 
 The main theme of esoteriic.com is the **deciphering of reality**. It was an outlet for my desire to write, which in turn was an aide to order my thoughts about how I understood reality. This was not my very first ever blog, but the first I tried host and manage myself. It started in 2009 while I was in my mid-20s.
 
-I focus on topics that I enjoy and have studied extensively, chiefly mathematics, physics, and cosmology, with explorations into logic, computing, technology, economics, philosophy, information security, blockchain and cryptocurrencies, and creative writing.
+I focus on topics that I enjoy and have studied extensively, chiefly mathematics, physics, and cosmology, with explorations into logic, computing, technology, economics, philosophy, information security, blockchain and cryptocurrencies, artificial intelligence, and creative writing.
 
 Favorite topics include symmetry, geometry, number theory, and computational cosmology. When I use the term "esoteric", I generally mean esoteric knowledge rather than occultism. While the latter has its place, I believe there are far more fascinating topics that conspicuously display hidden patterns - we just need to know where to look.
 
@@ -30,6 +30,14 @@ While this blog started as a technical and academic outlet, I eventually added c
 I've published a collection of short stories called **Terosan Tales** on Smashwords, featuring interconnected stories set in a science fiction universe I've been developing for over a decade. You'll find several of my short stories and creative writing pieces on this blog, organized under the "Creative Writing" category.
 
 The creative writing was previously hosted on a separate WordPress blog, but I've now integrated it into this main site to create a more cohesive representation of my interests and work.
+
+## AI and Technology Development
+
+More recently, I've become deeply involved in AI development and AI-assisted programming. I believe AI represents a genuine technological breakthrough that goes beyond the hype, though it requires critical engagement rather than blind adoption. My approach is that **AI should augment, not replace human cognition**, at least in the short-term. In the long-term, I fear whether humans will ever be able to keep up.
+
+I use AI as an active pair programmer, primarily through tools like Cursor, which allows for tight feedback loops with full codebase context. I delegate repetitive tasks like boilerplate code and syntax, while maintaining command over high-level architecture and creative problem-solving. The key insight is that AI isn't brain rot - it's a mirror. If you skip the heavy lifting, it keeps the bar low, but if you learn first and automate second, you get a cognitive dividend.
+
+I've developed several open-source AI-powered applications, including **NovelWriter** (a comprehensive novel-writing assistant), **DungeonGPT** (an AI Dungeon Master for tabletop RPGs), and various tools for testing LLM creative writing capabilities. These projects embody my belief in building in the open to demystify AI technology.
 
 ## Interests and Preferences
 
@@ -62,6 +70,7 @@ The blog is organized into several main categories:
 - **Science, Technology and Nature**: Various writings about the universe
 - **Information Security**: Information security insights
 - **Finance and Investing**: Market analysis and investment strategies
+- **Artificial Intelligence**: AI development philosophy, projects, and insights on human-AI collaboration
 
 ## Caveats and Philosophy
 
