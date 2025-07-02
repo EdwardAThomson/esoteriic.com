@@ -1,0 +1,13 @@
+---
+date: "Sun Sep 23 2012 00:25:00 GMT+0100 (British Summer Time)"
+title: "Reminiscences of a Stock Operator (Jesse Livermore), Edwin Lefèvre"
+description: ""
+category: "book-reviews-non-fiction"
+---
+**[Reminiscences of a Stock Operator: Annotated Edition by Jon D. Markman. With New Commentary and Insights on the Life and Times of Jesse Livermore (Hardcover)](http://www.amazon.co.uk/review/R1KR7MFG58SERR/ref=cm_cr_rdp_perm "Reminiscences of a Stock Operator"),** 26 Aug 2012
+
+This book reads like an autobiography, the writer has supposedly written it from interviews that he conducted with Livermore. However, the style makes you feel like you are getting inside Livermore's head; some of the casual references and mannerisms would convince you that the book was actually written by the Livermore rather than someone else. That is perhaps one of the successes of this book. It is easy to read and I can't say that I found any passage to be excessively dull. Most of the material was definitely a page turner.  
+  
+The book covers the expanse of Livermore's trading life, from his early days in the bucket shops to the stock brokers on Wall Street. It covers all his ups and downs as well as what he was thinking when he made certain trades. One of the most important things to take away is the battle with one's own psychology, and then of course figuring out how to react to other people's psychology. This is also true of Ben Graham's book [The Intelligent Investor (Collins Business Essentials)](http://www.amazon.co.uk/gp/product/0060555661/ref=cm_cr_asin_lnk). Psychology is almost perhaps the most important factor for determining success or failure. Livermore understood this and used it to his advantage. Given that he made a lot then lost a lot, I fear that his risk management could not have been all that great. His great use of psychology seems to have been forgotten in certain circumstances.  
+  
+The historical aspect is also an interesting part of this story. There are many similarities between the stock market of then and of now. There are also references to stock operators from the 1860s and 1870s. Somehow it feels surreal to think about stock operators living and working during those times. There are no computers, internet or bloomberg terminals that people rely upon these days. It was a far different period in time and the primitiveness of the 1860s and of Livermore's time 1900-1930 is quite romantic (in sense of romanticism). There were concerns of market manipulation and cornering back then, as detailed in the book, just as there is now. The comparisons you can make are some of the most enjoyable experiences of reading this book.

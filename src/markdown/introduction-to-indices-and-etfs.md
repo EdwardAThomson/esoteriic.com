@@ -1,0 +1,21 @@
+---
+date: "Sun Sep 30 2012 19:47:00 GMT+0100 (British Summer Time)"
+title: "Introduction to Indices and ETFs"
+description: ""
+category: "investing"
+---
+The purpose of this post is to review the indexing strategy and point out the benefits of choosing such a strategy. Naturally, it makes sense to also discuss Exchange Traded Funds (ETFs) and similar products. I believe indexing is the best strategy for investing and it is best to do so over a long period of time. Another point of consideration is the concept of dollar (or pound) cost averaging; this is basically saving a small amount of money each month and letting it grow over time. You don’t invest everything at once with dollar cost averaging but in small lumps over time. A combination of buying periodically and into an index is almost without a doubt the best way to invest.
+
+Rather than buying just one company or a small number of companies, an index tracks all the companies in a given market: for example FTSE 100 or S&P 500. The FTSE 100 is the one hundred largest companies (by market capitalization (roughly value)) in the UK. The S&P 500 is the five hundred largest companies in the US.
+
+The index returns what the market returns. What this statement means is that an index fund does not try to outperform the market. It buys the entire market and your money grows as the market grows. If the S&P 500 increases 8% then the investor will make an 8% (subtract fees) return on investment. £1000 pounds invested will grow to £1080 at the end of the first year. The  
+interest is always compounded so the following year you will make 8% on £1080. Of course no index perfectly makes a positive return year after year. On a long time scale the average return may be 8% per year, that’s a key point to remember. Markets go up as well as down, so play for the long term and be a winner.
+
+Indexing is a defensive way to invest: trying to beat the market is a fool’s game. Some may succeed in beating the market but very few actually do.
+
+John C Bogle started the first index mutual fund in 1975, he recently wrote a book called “The Little Book of Common Sense Investing.” In this book he highlights the benefits of an indexing strategy: lower costs, simple and tax efficient. Bogle advocates buyng once and then holding the fund for decades. This strategy has been shown to provide the best return over long  
+periods. Such a strategy is independent of asset class. Indexing works well for equities (shares), commodities, cash, property and anything else we can think of.
+
+In recent years, ETFs have appeared as a new vehicle of investment. They are a method of investing that work just like shares (traded on an exchange) but can track an entire market. ETFs can follow single commodities or single companies but often they are used to track several companies or several commodities. They are low cost and tax efficient (just as any index should be). ETFs are possibly more popular now than mutual funds as they are simpler to buy and cheaper to administer (at least from what I can gather). ETFs, like an index fund, suffer from a tracking error. This is unavoidable. A tracking error is the difference between what a market returns and what an investor gets (ignoring fees). If a market returns 8% then an investor might get 7.9 or perhaps 7.8% because no fund can perfectly track the market. Ok, not a huge problem and it isn’t something that can be fixed.
+
+ETFs tend to have an additional problem of weighting. Index funds could also have weighting problems too but my reading of this is that the problem occurs more in ETFs (but beware of this in either case). Weighting is a way of saying that not all ETFs are the same. Two ETFs may claim to track the FTSE 100 but the two may have different weightings for each company. Weighting is how your money will be divided up between different companies. One ETF may put 50% of your money in one company and then the remaining 50% in the rest of the FTSE 100 companies; this index wouldbuy the market but it would not track the market. We shouldn't expect it to make the same return at the market as a whole does as it is putting a heavy preference on one particular company. Buyers beware.

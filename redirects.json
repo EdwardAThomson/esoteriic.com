@@ -1,0 +1,518 @@
+{
+  "/thoughts/2-abstruse/167-amazon-book-reviews.html": {
+    "newUrl": "/amazon-book-reviews/",
+    "title": "Amazon book reviews"
+  },
+  "/thoughts/2-abstruse/169-on-morality-in-fantasy-and-science-fiction.html": {
+    "newUrl": "/on-morality-in-fantasy-and-science-fiction/",
+    "title": "On morality in fantasy and science fiction"
+  },
+  "/thoughts/2-abstruse/195-big-trends-for-the-next-decade.html": {
+    "newUrl": "/big-trends-for-the-next-decade/",
+    "title": "Big trends for the next decade"
+  },
+  "/thoughts/2-abstruse/212-reconciliation-with-phenomenology.html": {
+    "newUrl": "/reconciliation-with-phenomenology/",
+    "title": "Reconciliation with phenomenology"
+  },
+  "/thoughts/2-abstruse/225-Why-it-is-impossible-for-everyone-to-tail-hedge.html": {
+    "newUrl": "/why-it-is-impossible-for-everyone-to-tail-hedge/",
+    "title": "Why it is impossible for everyone to tail hedge"
+  },
+  "/thoughts/2-abstruse/226-Convex-payoffs-in-the-creative-industries.html": {
+    "newUrl": "/convex-payoffs-in-the-creative-industries/",
+    "title": "Convex payoffs in the creative industries"
+  },
+  "/thoughts/2-abstruse/227-Risk-quantification-in-information-security.html": {
+    "newUrl": "/risk-quantification-in-information-security/",
+    "title": "Risk quantification in information security"
+  },
+  "/thoughts/2-abstruse/27-conlang.html": {
+    "newUrl": "/constructed-languages/",
+    "title": "Constructed Languages"
+  },
+  "/thoughts/2-abstruse/31-goedels-incompleteness-theorems.html": {
+    "newUrl": "/goedels-incompleteness-theorems/",
+    "title": "Goedel's incompleteness theorem(s)"
+  },
+  "/thoughts/2-abstruse/61-lunchtime-conversation.html": {
+    "newUrl": "/lunchtime-conversation/",
+    "title": "Lunchtime conversation"
+  },
+  "/thoughts/2-abstruse/68-mathematical-intuition.html": {
+    "newUrl": "/mathematical-guess-is-a-symplectic-manifold-topologically-simple/",
+    "title": "Mathematical guess: Is a symplectic manifold topologically simple?"
+  },
+  "/thoughts/2-abstruse/78-hilberthotel.html": {
+    "newUrl": "/understanding-infinity-hilberts-infinite-hotel/",
+    "title": "Understanding Infinity: Hilbert's Infinite Hotel"
+  },
+  "/thoughts/2-abstruse/80-lines-to-infinity.html": {
+    "newUrl": "/understanding-infinity-lines-to-infinity/",
+    "title": "Understanding Infinity: Lines to Infinity"
+  },
+  "/thoughts/2-abstruse/85-physical-meta-physical-and-multiverse.html": {
+    "newUrl": "/physical-meta-physical-and-multiverse/",
+    "title": "Physical, meta-physical and multiverse"
+  },
+  "/thoughts/2-abstruse/90-measuring-agreement.html": {
+    "newUrl": "/measuring-agreement/",
+    "title": "Measuring Agreement"
+  },
+  "/thoughts/2-abstruse/95-amazon-reviews.html": {
+    "newUrl": "/amazon-reviews/",
+    "title": "Amazon reviews"
+  },
+  "/thoughts/2-abstruse/96-illusion-of-free-will.html": {
+    "newUrl": "/the-illusion-of-free-will/",
+    "title": "The illusion of free will"
+  },
+  "/thoughts/2-abstruse/97-dark-matter.html": {
+    "newUrl": "/dark-matter/",
+    "title": "Dark Matter"
+  },
+  "/thoughts/20-science-technology-nature/142-building-an-electric-vehicle.html": {
+    "newUrl": "/electric-vehicles-build-your-own/",
+    "title": "Electric vehicles: build your own?"
+  },
+  "/thoughts/20-science-technology-nature/143-electric-vehicles-power-calculations.html": {
+    "newUrl": "/electric-vehicles-power-calculations/",
+    "title": "Electric vehicles: Power Calculations"
+  },
+  "/thoughts/20-science-technology-nature/144-electric-vehicles-calculations-for-tesla-model-s.html": {
+    "newUrl": "/electric-vehicles-calculations-for-tesla-model-s/",
+    "title": "Electric vehicles: calculations for Tesla Model S"
+  },
+  "/thoughts/20-science-technology-nature/194-how-make-things-with-carbon-fiber.html": {
+    "newUrl": "/how-make-things-with-carbon-fiber/",
+    "title": "How make things with carbon fiber"
+  },
+  "/thoughts/20-science-technology-nature/198-apple-touchid-and-optical-passwords.html": {
+    "newUrl": "/apple-touchid-and-optical-passwords/",
+    "title": "Apple TouchID and optical passwords"
+  },
+  "/thoughts/20-science-technology-nature/66-the-state-of-science.html": {
+    "newUrl": "/the-state-of-science/",
+    "title": "The state of science"
+  },
+  "/thoughts/20-science-technology-nature/76-my-thesis-is-online.html": {
+    "newUrl": "/my-thesis-is-online/",
+    "title": "My thesis is online"
+  },
+  "/thoughts/20-science-technology-nature/84-expansion-of-the-univese-as-a-cartoon.html": {
+    "newUrl": "/expansion-of-the-universe-as-a-cartoon/",
+    "title": "Expansion of the Universe as a cartoon"
+  },
+  "/thoughts/20-science-technology-nature/89-higgs-boson.html": {
+    "newUrl": "/the-higgs-boson/",
+    "title": "The Higgs Boson"
+  },
+  "/thoughts/21-computing/10-google-provides-translation.html": {
+    "newUrl": "/google-provides-translation/",
+    "title": "Google provides translation"
+  },
+  "/thoughts/21-computing/128-online-security.html": {
+    "newUrl": "/online-security/",
+    "title": "Online security"
+  },
+  "/thoughts/21-computing/132-bitcoin-and-litecoin-mining.html": {
+    "newUrl": "/bitcoin-and-litecoin-mining/",
+    "title": "Bitcoin and Litecoin Mining"
+  },
+  "/thoughts/21-computing/134-personal-computing-power.html": {
+    "newUrl": "/personal-computing-power/",
+    "title": "Personal Computing Power"
+  },
+  "/thoughts/21-computing/171-dune-2.html": {
+    "newUrl": "/dune-2/",
+    "title": "Dune 2"
+  },
+  "/thoughts/21-computing/172-ouya-the-hackable-game-console.html": {
+    "newUrl": "/ouya-the-hackable-game-console/",
+    "title": "Ouya - the hackable game console"
+  },
+  "/thoughts/21-computing/187-review-ocz-agility-3-ssd.html": {
+    "newUrl": "/review-ocz-agility-3-ssd/",
+    "title": "Review: OCZ Agility 3 SSD"
+  },
+  "/thoughts/21-computing/224-Relative-attack-surface-sizes-of-operating-systems.html": {
+    "newUrl": "/relative-attack-surface-sizes-of-operating-systems/",
+    "title": "Relative attack surface sizes of operating systems"
+  },
+  "/thoughts/21-computing/228-On-the-impossibility-of-detecting-malicious-human-actions.html": {
+    "newUrl": "/on-the-impossibility-of-detecting-malicious-human-actions/",
+    "title": "On the impossibility of detecting malicious human actions"
+  },
+  "/thoughts/21-computing/229_On-the-fly-deterministic-password-generator.html": {
+    "newUrl": "/on-the-fly-deterministic-password-generator/",
+    "title": "On-the-fly deterministic password generator"
+  },
+  "/thoughts/21-computing/28-full-body-controller-less-gaming.html": {
+    "newUrl": "/full-body-controller-less-gaming/",
+    "title": "Full-body controller-less gaming"
+  },
+  "/thoughts/21-computing/29-google-wave.html": {
+    "newUrl": "/google-wave/",
+    "title": "Google Wave"
+  },
+  "/thoughts/21-computing/32-hacking-and-society.html": {
+    "newUrl": "/hacking-and-society/",
+    "title": "Hacking and society"
+  },
+  "/thoughts/21-computing/41-recent-developments-in-the-software-world.html": {
+    "newUrl": "/recent-developments-in-the-software-world/",
+    "title": "Recent developments in the software world"
+  },
+  "/thoughts/21-computing/45-hacking-is.html": {
+    "newUrl": "/hacking-is/",
+    "title": "Hacking is?"
+  },
+  "/thoughts/21-computing/69-android-programming.html": {
+    "newUrl": "/android-programming-for-non-programmers/",
+    "title": "Android programming for non-programmers"
+  },
+  "/thoughts/22-economics/125-bitcoin-a-description-and-explanation.html": {
+    "newUrl": "/bitcoin-a-description-and-explanation/",
+    "title": "Bitcoin - a description and explanation"
+  },
+  "/thoughts/22-economics/141-ecb-report-on-virtual-currencies.html": {
+    "newUrl": "/ecb-report-on-virtual-currencies/",
+    "title": "ECB report on virtual currencies"
+  },
+  "/thoughts/22-economics/178-transaction-based-economy.html": {
+    "newUrl": "/transaction-based-economy/",
+    "title": "Transaction based economy"
+  },
+  "/thoughts/22-economics/181-the-value-of-money-from-a-transactional-perspective.html": {
+    "newUrl": "/the-value-of-money-from-a-transactional-perspective/",
+    "title": "The value of money from a transactional perspective"
+  },
+  "/thoughts/22-economics/185-economics-transactions-networks-and-power-law-ubiquity.html": {
+    "newUrl": "/economics-transactions-networks-and-power-law-ubiquity/",
+    "title": "Economics: transactions, networks and power law ubiquity"
+  },
+  "/thoughts/22-economics/190-rotation-from-bonds-to-cash.html": {
+    "newUrl": "/rotation-from-bonds-to-cash/",
+    "title": "Rotation from bonds to cash"
+  },
+  "/thoughts/22-economics/199-bitcoin-bubbles-and-alternative-cryptocurrencies.html": {
+    "newUrl": "/bitcoin-bubbles-and-alternative-cryptocurrencies/",
+    "title": "Bitcoin, bubbles, and alternative cryptocurrencies"
+  },
+  "/thoughts/22-economics/202-cryptocurrency-capital-distribution.html": {
+    "newUrl": "/cryptocurrency-capital-distribution/",
+    "title": "Cryptocurrency Capital Distribution"
+  },
+  "/thoughts/22-economics/72-introductions-in-finance-and-economics.html": {
+    "newUrl": "/introductions-in-finance-and-economics/",
+    "title": "Introductions in finance and economics"
+  },
+  "/thoughts/22-economics/75-the-worlds-net-international-investment-position.html": {
+    "newUrl": "/the-worlds-net-international-investment-position/",
+    "title": "The World's Net International Investment position"
+  },
+  "/thoughts/22-economics/98-how-the-economic-machine-works.html": {
+    "newUrl": "/how-the-economic-machine-works/",
+    "title": "How the economic machine works"
+  },
+  "/thoughts/23-culture/136-oversaturation-of-social-networking.html": {
+    "newUrl": "/oversaturation-of-social-networking/",
+    "title": "Oversaturation of Social Networking"
+  },
+  "/thoughts/23-culture/218-Learning-a-foreign-language.html": {
+    "newUrl": "/learning-a-foreign-language/",
+    "title": "Learning a foreign language"
+  },
+  "/thoughts/23-culture/219-Diary-Rapid-Learning-of-Icelandic.html": {
+    "newUrl": "/diary-rapid-learning-of-icelandic/",
+    "title": "Diary: Rapid Learning of Icelandic"
+  },
+  "/thoughts/23-culture/223-Decentralised-and-selective-social-networking.html": {
+    "newUrl": "/decentralised-and-selective-social-networking/",
+    "title": "Decentralised and selective social networking"
+  },
+  "/thoughts/23-culture/33-the-art-of-trolling.html": {
+    "newUrl": "/the-art-of-trolling/",
+    "title": "The art of trolling"
+  },
+  "/thoughts/23-culture/54-micronations.html": {
+    "newUrl": "/micronations/",
+    "title": "Micronations"
+  },
+  "/thoughts/23-culture/63-blogging.html": {
+    "newUrl": "/blogging/",
+    "title": "Blogging"
+  },
+  "/thoughts/23-culture/71-books-i-read-in-2011.html": {
+    "newUrl": "/books-ive-read-in-2011/",
+    "title": "Books I've read in 2011"
+  },
+  "/thoughts/23-culture/74-etymology-and-phonology-of-thomson-or-why-thompson-is-not-correct.html": {
+    "newUrl": "/etymology-and-phonology-of-thomson-or-why-thompson-is-not-correct/",
+    "title": "Etymology and phonology of Thomson (or why ThomPson is not correct)"
+  },
+  "/thoughts/23-culture/82-the-similarity-between-scottish-and-scandinavian-words.html": {
+    "newUrl": "/the-similarity-between-scottish-and-scandinavian-words/",
+    "title": "The similarity between Scottish and Scandinavian words"
+  },
+  "/thoughts/23-culture/83-modern-art-etole-bleue.html": {
+    "newUrl": "/modern-art-etole-bleue/",
+    "title": "Modern Art / Etole Bleue"
+  },
+  "/thoughts/25-interviews/43-interview-keith-kahn-harris-aka-metal-jew.html": {
+    "newUrl": "/interview-keith-kahn-harris-aka-metal-jew/",
+    "title": "Interview: Keith Kahn-Harris aka Metal Jew"
+  },
+  "/thoughts/28-laughs/115-textbook-kahneman.html": {
+    "newUrl": "/textbook-kahneman/",
+    "title": "Textbook Kahneman"
+  },
+  "/thoughts/30-ago/87-political-compass-the-road-towards-an-invariant-expression-of-opinion.html": {
+    "newUrl": "/political-compass-the-road-towards-an-invariant-expression-of-opinion/",
+    "title": "Political Compass: the road towards an invariant expression of opinion"
+  },
+  "/thoughts/30-ago/88-political-compass-flaws.html": {
+    "newUrl": "/political-compass-flaws/",
+    "title": "Political Compass Flaws"
+  },
+  "/thoughts/31-investing/118-introduction-to-the-stock-market.html": {
+    "newUrl": "/introduction-to-the-stock-market/",
+    "title": "Introduction to the stock market"
+  },
+  "/thoughts/31-investing/119-introduction-to-indices-and-etfs.html": {
+    "newUrl": "/introduction-to-indices-and-etfs/",
+    "title": "Introduction to Indices and ETFs"
+  },
+  "/thoughts/31-investing/120-introduction-to-different-asset-classes.html": {
+    "newUrl": "/introduction-to-different-asset-classes/",
+    "title": "Introduction to different asset classes"
+  },
+  "/thoughts/31-investing/121-hedging-101.html": {
+    "newUrl": "/hedging-101/",
+    "title": "Hedging 101"
+  },
+  "/thoughts/31-investing/180-anti-fragile-lottery-playing.html": {
+    "newUrl": "/anti-fragile-lottery-playing/",
+    "title": "Anti-fragile lottery playing"
+  },
+  "/thoughts/31-investing/184-north-korean-equities.html": {
+    "newUrl": "/north-korean-equities/",
+    "title": "North Korean Equities"
+  },
+  "/thoughts/31-investing/189-quality-value-momentum-investing.html": {
+    "newUrl": "/quality-value-momentum-investing/",
+    "title": "Quality, Value, Momentum Investing"
+  },
+  "/thoughts/31-investing/196-investing-an-introduction-to-smart-beta.html": {
+    "newUrl": "/investing-an-introduction-to-smart-beta/",
+    "title": "Investing: An introduction to Smart Beta"
+  },
+  "/thoughts/31-investing/197-investing-a-relative-tobin-q-portfolio.html": {
+    "newUrl": "/investing-a-relative-tobin-q-portfolio/",
+    "title": "Investing: A Relative Tobin Q portfolio"
+  },
+  "/thoughts/31-investing/221-Summer-2015_-_investment-ideas.html": {
+    "newUrl": "/summer-2015-investment-ideas/",
+    "title": "Summer 2015 - investment ideas"
+  },
+  "/thoughts/31-investing/222-Achieving-financial-independence.html": {
+    "newUrl": "/achieving-financial-independence/",
+    "title": "Achieving financial independence"
+  },
+  "/thoughts/31-investing/91-safely-increasing-exposure-for-spreadbetting.html": {
+    "newUrl": "/safely-increasing-exposure-for-spreadbetting/",
+    "title": "Safely increasing exposure for spreadbetting"
+  },
+  "/thoughts/31-investing/92-technical-analysis.html": {
+    "newUrl": "/brief-introduction-to-technical-analysis/",
+    "title": "Brief Introduction to Technical Analysis"
+  },
+  "/thoughts/31-investing/94-historical-price-patterns-in-the-ftse-monthly-data.html": {
+    "newUrl": "/historical-price-patterns-in-the-ftse-monthly-data/",
+    "title": "Historical price patterns in the FTSE monthly data"
+  },
+  "/thoughts/32-reviews/101-fermats-last-theorem-simon-singh-.html": {
+    "newUrl": "/fermats-last-theorem-simon-singh/",
+    "title": "Fermat's Last Theorem, Simon Singh"
+  },
+  "/thoughts/32-reviews/108-fearless-symmetry-avner-ash.html": {
+    "newUrl": "/fearless-symmetry-ash-and-gross/",
+    "title": "Fearless Symmetry, Ash and Gross"
+  },
+  "/thoughts/32-reviews/109-deciphering-the-cosmic-number-arthur-miller.html": {
+    "newUrl": "/deciphering-the-cosmic-number-arthur-miller/",
+    "title": "Deciphering the Cosmic Number, Arthur Miller"
+  },
+  "/thoughts/32-reviews/112-the-alchemy-of-finance-george-soros.html": {
+    "newUrl": "/the-alchemy-of-finance-george-soros/",
+    "title": "The Alchemy of Finance, George Soros"
+  },
+  "/thoughts/32-reviews/113-more-money-than-god-sebastian-mallaby.html": {
+    "newUrl": "/more-money-than-god-sebastian-mallaby/",
+    "title": "More Money Than God, Sebastian Mallaby"
+  },
+  "/thoughts/32-reviews/114-reminiscences-of-a-stock-operator-jesse-livermore-edwin-lefevre.html": {
+    "newUrl": "/reminiscences-of-a-stock-operator-jesse-livermore-edwin-lefvre/",
+    "title": "Reminiscences of a Stock Operator (Jesse Livermore), Edwin Lefèvre"
+  },
+  "/thoughts/32-reviews/124-infinity-new-research-frontiers.html": {
+    "newUrl": "/infinity-new-research-frontiers/",
+    "title": "Infinity - New Research Frontiers"
+  },
+  "/thoughts/32-reviews/140-steal-this-computer-book-40.html": {
+    "newUrl": "/steal-this-computer-book-40/",
+    "title": "Steal this computer book 4.0"
+  },
+  "/thoughts/32-reviews/147-python-programming-for-the-absolute-beginner-mike-dawson.html": {
+    "newUrl": "/python-programming-for-the-absolute-beginner-mike-dawson/",
+    "title": "Python Programming for the Absolute Beginner, Mike Dawson"
+  },
+  "/thoughts/32-reviews/148-the-little-book-of-commonsense-investing-john-c-bogle.html": {
+    "newUrl": "/the-little-book-of-commonsense-investing-john-c-bogle/",
+    "title": "The Little Book of Commonsense Investing, John C Bogle"
+  },
+  "/thoughts/32-reviews/182-the-black-swan-the-impact-of-the-highly-improbable.html": {
+    "newUrl": "/the-black-swan-the-impact-of-the-highly-improbable/",
+    "title": "The Black Swan: The Impact of the Highly Improbable"
+  },
+  "/thoughts/32-reviews/192-ice-free-electric-vehicle-technology-for-builders-and-converters-.html": {
+    "newUrl": "/ice-free-electric-vehicle-technology-for-builders-and-converters/",
+    "title": "ICE Free: Electric vehicle technology for builders and converters"
+  },
+  "/thoughts/32-reviews/206-hedge-fund-market-wizads-jack-schwager.html": {
+    "newUrl": "/hedge-fund-market-wizads-jack-schwager/",
+    "title": "Hedge Fund Market Wizads - Jack Schwager"
+  },
+  "/thoughts/32-reviews/207-everyday-cryptography_-_keith-martin.html": {
+    "newUrl": "/everyday-cryptography-keith-martin/",
+    "title": "Everyday Cryptography - Keith Martin"
+  },
+  "/thoughts/32-reviews/208-stephen-hawkings-universe-the-cosmos-explained_-david-filken.html": {
+    "newUrl": "/stephen-hawkings-universe-the-cosmos-explained-david-filken/",
+    "title": "Stephen Hawking's Universe: The Cosmos Explained - David Filken"
+  },
+  "/thoughts/32-reviews/209-antifragile-things-that-gain-from-disorder-by-nassim-taleb.html": {
+    "newUrl": "/antifragile-things-that-gain-from-disorder-by-nassim-taleb/",
+    "title": "Antifragile: Things that Gain from Disorder by Nassim Taleb"
+  },
+  "/thoughts/32-reviews/213-hedgehogging-barton-biggs.html": {
+    "newUrl": "/hedgehogging-barton-biggs/",
+    "title": "Hedgehogging, Barton Biggs"
+  },
+  "/thoughts/32-reviews/216-adventue-capitalist-jim-rogers.html": {
+    "newUrl": "/adventure-capitalist-jim-rogers/",
+    "title": "Adventure Capitalist, Jim Rogers"
+  },
+  "/thoughts/32-reviews/99-the-equation-that-couldnt-be-solved-mario-livio.html": {
+    "newUrl": "/the-equation-that-couldnt-be-solved-mario-livio/",
+    "title": "The Equation That Couldn't Be Solved, Mario Livio"
+  },
+  "/thoughts/33-enterprise-and-entrepreneurship/129-starting-a-business-checklist.html": {
+    "newUrl": "/starting-a-business-checklist/",
+    "title": "Starting a business checklist"
+  },
+  "/thoughts/33-enterprise-and-entrepreneurship/130-development-phase-of-a-business-start-up.html": {
+    "newUrl": "/development-phase-of-a-business-start-up/",
+    "title": "Development phase of a business start up"
+  },
+  "/thoughts/33-enterprise-and-entrepreneurship/146-entrepreneurship-and-motivation.html": {
+    "newUrl": "/entrepreneurship-and-motivation/",
+    "title": "Entrepreneurship and motivation"
+  },
+  "/thoughts/33-enterprise-and-entrepreneurship/183-crowdfunding-projects.html": {
+    "newUrl": "/crowdfunding-projects/",
+    "title": "Crowdfunding projects"
+  },
+  "/thoughts/35-reviews-fiction/149-the-liveship-traders-1-ship-of-magic-robin-hobb.html": {
+    "newUrl": "/the-liveship-traders-1-ship-of-magic-robin-hobb/",
+    "title": "The Liveship Traders 1: Ship of Magic, Robin Hobb"
+  },
+  "/thoughts/35-reviews-fiction/150-the-liveship-traders-2-the-mad-ship-robin-hobb.html": {
+    "newUrl": "/the-liveship-traders-2-the-mad-ship-robin-hobb/",
+    "title": "The Liveship Traders 2: The Mad Ship, Robin Hobb"
+  },
+  "/thoughts/35-reviews-fiction/151-the-liveship-traders-3-ship-of-destiny-robin-hobb.html": {
+    "newUrl": "/the-liveship-traders-3-ship-of-destiny-robin-hobb/",
+    "title": "The Liveship Traders 3: Ship of Destiny, Robin Hobb"
+  },
+  "/thoughts/35-reviews-fiction/152-dune-frank-herbert.html": {
+    "newUrl": "/dune-frank-herbert/",
+    "title": "Dune, Frank Herbert"
+  },
+  "/thoughts/35-reviews-fiction/153-assassins-apprentice-robin-hobb.html": {
+    "newUrl": "/assassins-apprentice-robin-hobb/",
+    "title": "Assassin's Apprentice, Robin Hobb"
+  },
+  "/thoughts/35-reviews-fiction/154--a-game-of-thrones-george-rr-martin.html": {
+    "newUrl": "/a-game-of-thrones-george-rr-martin/",
+    "title": "A Game of Thrones, George RR Martin"
+  },
+  "/thoughts/35-reviews-fiction/155-a-clash-of-kings-george-rr-martin.html": {
+    "newUrl": "/a-clash-of-kings-george-rr-martin/",
+    "title": "A Clash of Kings, George RR Martin"
+  },
+  "/thoughts/35-reviews-fiction/156-the-legend-of-sigurd-and-gudrun-jrr-tolkien.html": {
+    "newUrl": "/the-legend-of-sigurd-and-gudrn-jrr-tolkien/",
+    "title": "The Legend of Sigurd and Gudrún, JRR Tolkien"
+  },
+  "/thoughts/35-reviews-fiction/157-a-storm-of-swords-george-rr-martin.html": {
+    "newUrl": "/a-storm-of-swords-george-rr-martin/",
+    "title": "A Storm of Swords, George RR Martin"
+  },
+  "/thoughts/35-reviews-fiction/158-a-feast-for-crows-george-rr-martin.html": {
+    "newUrl": "/a-feast-for-crows-george-rr-martin/",
+    "title": "A Feast for Crows, George RR Martin"
+  },
+  "/thoughts/35-reviews-fiction/159-royal-assassin-robin-hobb.html": {
+    "newUrl": "/royal-assassin-robin-hobb/",
+    "title": "Royal Assassin, Robin Hobb"
+  },
+  "/thoughts/35-reviews-fiction/160-the-difference-engine-william-gibson.html": {
+    "newUrl": "/the-difference-engine-william-gibson/",
+    "title": "The Difference Engine, William Gibson"
+  },
+  "/thoughts/35-reviews-fiction/161-american-psycho-brett-easton-ellis.html": {
+    "newUrl": "/american-psycho-brett-easton-ellis/",
+    "title": "American Psycho, Brett Easton Ellis"
+  },
+  "/thoughts/35-reviews-fiction/162-wizards-first-rule-terry-goodkind.html": {
+    "newUrl": "/wizards-first-rule-terry-goodkind/",
+    "title": "Wizard's First Rule, Terry Goodkind"
+  },
+  "/thoughts/35-reviews-fiction/163-dragon-keeper-robin-hobb.html": {
+    "newUrl": "/dragon-keeper-robin-hobb/",
+    "title": "Dragon Keeper, Robin Hobb"
+  },
+  "/thoughts/35-reviews-fiction/164-the-children-of-hurin-jrr-tolkien.html": {
+    "newUrl": "/the-children-of-hurin-jrr-tolkien/",
+    "title": "The Children of Hurin, JRR Tolkien"
+  },
+  "/thoughts/35-reviews-fiction/165-the-hobbit-jrr-tolkien.html": {
+    "newUrl": "/the-hobbit-jrr-tolkien/",
+    "title": "The Hobbit, JRR Tolkien"
+  },
+  "/thoughts/35-reviews-fiction/166-the-silmarillion.html": {
+    "newUrl": "/the-silmarillion/",
+    "title": "The Silmarillion"
+  },
+  "/thoughts/35-reviews-fiction/168-a-dance-with-dragons-george-rr-martin.html": {
+    "newUrl": "/a-dance-with-dragons-george-rr-martin/",
+    "title": "A Dance with Dragons, George RR Martin"
+  },
+  "/thoughts/35-reviews-fiction/170-assassins-quest-robin-hobb.html": {
+    "newUrl": "/assassins-quest-robin-hobb/",
+    "title": "Assassin's Quest, Robin Hobb"
+  },
+  "/thoughts/35-reviews-fiction/186-tolkien-the-illustrated-encyclopedia-david-day.html": {
+    "newUrl": "/tolkien-the-illustrated-encyclopedia-david-day/",
+    "title": "Tolkien - The Illustrated Encyclopedia, David Day"
+  },
+  "/thoughts/35-reviews-fiction/200-consider-phlebas-iain-m-banks.html": {
+    "newUrl": "/consider-phlebas-iain-m-banks/",
+    "title": "Consider Phlebas - Iain M Banks"
+  },
+  "/thoughts/orphichymns/11-the-orphic-hymns-coming-soon.html": {
+    "newUrl": "/the-orphic-hymns-coming-soon/",
+    "title": "The Orphic Hymns - coming soon"
+  }
+}

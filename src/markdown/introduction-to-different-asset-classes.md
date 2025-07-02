@@ -1,0 +1,23 @@
+---
+date: "Sun Sep 30 2012 19:50:00 GMT+0100 (British Summer Time)"
+title: "Introduction to different asset classes"
+description: ""
+category: "investing"
+---
+There are many places for us to invest our money but it isn’t obvious where is the best place to invest. We need to weigh up the possible returns against the amount of risk that we are willing to accept. Each of the different types of ‘things’ that we can invest in are called asset classes. Examples of asset classes are shares, cash, commodities, property and so on.
+
+[](http://www.gutic.co.uk/index.php/articles/91-articles/reviews)
+
+The most important decision of investing is how to divide up your money into the different asset classes. Once you have set aside an amount of money that you are able to invest then you must decide where to invest it. Is it wise to put 100% of the money in stocks? Probably not. The exact percentages to be used are a consideration of theories of portfolio management. I’d suggest not worrying too much about the exact percentages. I’d suggest greater flexibility than most theories dictate, change the percentages as needed. Save some of money as cash which can be pulled quickly in case of emergency. Invest some money in shares (stocks in American English) for growth and perhaps some in bonds for generating income. Of course, it isn’t quite as simple as that but it need not be incredibly complicated. What to invest in is dependent upon the economic situation. The bond market or stock market etc isn’t always an obvious buy.
+
+Brief overview of the different classes:
+
+Shares (stocks): Here you are investing in companies, that is to say that you are buying a share of the company. You lend them some money and they pay you back some of their profits (dividends) for the duration of time that you are invested with them. If the price of the share goes up and you sell at a higher price then you will make money from the growth of the share price too. That is in addition to dividends.
+
+Cash: This can be as simple as putting some money into a savings account such as a high-interest account or an ISA. This type of asset is the most liquid (by definition) and hence should be the easiest to access if necessary. I’d also suggest the possibility of saving money in foreign currencies. If the Pound (£) (or Dollar etc) slips against the Euro or Yen then you will want your savings to be stored as Euros or Yen rather than Pounds or Dollars. Forex trading is the subject of a later post.
+
+Bonds: Governments and companies can borrow your money for a fixed term and will agree to pay a fixed amount of interest. This is a loan of money from you to the government of company. You don’t buy a share of the company but simply lend them money. Bonds can often be a safer or better investment than shares depending on the market. Bonds also offer a return every month which can be used as an income.
+
+Property (real estate): With house prices continually rising in the western world it is interesting to look at what is fuelling this growth. Just like a car, the materials used to build a house depreciate all the time. Regular maintainence is required to keep a building running. These costs decrease the value of any investment. Despite this, house prices are rising not falling. The reason must therefore be a supply and demand imbalance. The supply must be significantly less than the demand in order to force house prices to increase so rapidly. One of the ways to make money investing in this class is to buy a property at a lower price and then sell it at a higher price. Another is to rent the property and make income from the tenant. In this way property can be viewed in a similar light to shares. The income from rent is like the dividend from a share.
+
+Commodities: This involves investing in real things such as gold, oil, sugar and so on. If we are to believe the analysis of Jim Rogers, and I do, then we are already in a commodities bull market (overall growth for this assest class). Investing in commodities is perhaps a little harder than investing in shares or property, the terminology is more abstruse and the method of trading is more complicated (in my opinion). Investing in precious metals (such as gold and silver) is easier than investing in oil or sugar.
