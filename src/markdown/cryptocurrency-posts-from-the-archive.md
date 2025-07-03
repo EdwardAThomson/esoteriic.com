@@ -6,10 +6,10 @@ category: blockchain-and-cryptocurrency
 
 With the recent boom in Cryptocurrencies (and all things blockchain) I decided to create a new post to link back to my old posts. They cover Bitcoin, Litecoin and some general cryptocurrencies comments. The earliest post is from 2012 although some others are from 2013. It is interesting to re-read these. In the first post the price of Bitcoin was $12 and in a later post the price was $750. FYI, these posts are preserved in the Internet Archive (Way Back Machine).
 
-*   [Bitcoin – a description and explanation](https://esoteriic.com/thoughts/22-economics/125-bitcoin-a-description-and-explanation.html)
-*   [Bitcoin and Litecoin Mining](https://esoteriic.com/thoughts/21-computing/132-bitcoin-and-litecoin-mining)
-*   [Bitcoin, bubbles, and alternative cryptocurrencies](https://esoteriic.com/thoughts/22-economics/199-bitcoin-bubbles-and-alternative-cryptocurrencies.html)
-*   [Cryptocurrency Capital Distribution](https://esoteriic.com/thoughts/22-economics/202-cryptocurrency-capital-distribution.html)
+*   [Bitcoin – a description and explanation](/thoughts/22-economics/125-bitcoin-a-description-and-explanation.html)
+*   [Bitcoin and Litecoin Mining](/thoughts/21-computing/132-bitcoin-and-litecoin-mining)
+*   [Bitcoin, bubbles, and alternative cryptocurrencies](/thoughts/22-economics/199-bitcoin-bubbles-and-alternative-cryptocurrencies.html)
+*   [Cryptocurrency Capital Distribution](/thoughts/22-economics/202-cryptocurrency-capital-distribution.html)
 
 I can't promise that all the links inside will still work. These articles are now preserved in an archived state. They were ported over from my old website which used older software. They aren't so pleasant on the eye but do make for interesting history. 🙂
 

@@ -13,6 +13,9 @@ document.addEventListener('DOMContentLoaded', () => {
 
   // Add copy button to code blocks
   addCopyButtonsToCodeBlocks();
+  
+  // Setup anonymity sidebar
+  setupAnonymitySidebar();
 });
 
 /**
@@ -226,4 +229,65 @@ function debounce(func, wait) {
     clearTimeout(timeout);
     timeout = setTimeout(later, wait);
   };
+}
+
+/**
+ * Setup anonymity series sidebar functionality
+ */
+function setupAnonymitySidebar() {
+  const sidebar = document.getElementById('anonymity-sidebar');
+  const toggle = document.getElementById('anonymity-sidebar-toggle');
+  
+  if (!sidebar || !toggle) return;
+  
+  let isOpen = false;
+  
+  // Toggle sidebar visibility
+  function toggleSidebar() {
+    isOpen = !isOpen;
+    
+    if (isOpen) {
+      sidebar.classList.add('visible');
+      toggle.classList.add('sidebar-open');
+      toggle.textContent = '✕';
+      toggle.setAttribute('aria-label', 'Close series navigation');
+    } else {
+      sidebar.classList.remove('visible');
+      toggle.classList.remove('sidebar-open');
+      toggle.textContent = '📖';
+      toggle.setAttribute('aria-label', 'Open series navigation');
+    }
+  }
+  
+  // Add click event to toggle button
+  toggle.addEventListener('click', toggleSidebar);
+  
+  // Close sidebar when clicking outside of it
+  document.addEventListener('click', (e) => {
+    if (isOpen && !sidebar.contains(e.target) && !toggle.contains(e.target)) {
+      toggleSidebar();
+    }
+  });
+  
+  // Close sidebar on escape key
+  document.addEventListener('keydown', (e) => {
+    if (e.key === 'Escape' && isOpen) {
+      toggleSidebar();
+    }
+  });
+  
+  // Auto-open sidebar on larger screens
+  function checkScreenSize() {
+    if (window.innerWidth >= 1400 && !isOpen) {
+      toggleSidebar();
+    } else if (window.innerWidth < 1200 && isOpen) {
+      toggleSidebar();
+    }
+  }
+  
+  // Check on load
+  checkScreenSize();
+  
+  // Check on resize with debounce
+  window.addEventListener('resize', debounce(checkScreenSize, 250));
 } 

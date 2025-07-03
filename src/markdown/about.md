@@ -1,5 +1,6 @@
 ---
 title: "About"
+date: 2009-09-26
 description: "About Ed Thomson and Esoteriic.com - deciphering reality through mathematics, physics, creative writing, and technology"
 ---
 

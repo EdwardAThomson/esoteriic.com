@@ -25,6 +25,120 @@ const templatesDir = path.join(srcDir, 'templates');
 const cssDir = path.join(srcDir, 'css');
 const jsDir = path.join(srcDir, 'js');
 
+// Anonymity series configuration
+const anonymitySeries = [
+  {
+    file: 'anonymity.md',
+    title: 'Anonymous Messaging over the Internet',
+    subtitle: 'Overview and Index',
+    order: 0,
+    slug: 'anonymity'
+  },
+  {
+    file: 'introduction-to-anonymity.md',
+    title: 'Introduction to Anonymity',
+    subtitle: 'Understanding the Need for Anonymous Communication',
+    order: 1,
+    slug: 'introduction-to-anonymity'
+  },
+  {
+    file: 'theoretical-anonymity.md',
+    title: 'Theoretical Anonymity',
+    subtitle: 'Philosophical and Mathematical Definitions',
+    order: 2,
+    slug: 'theoretical-anonymity'
+  },
+  {
+    file: 'concepts-and-schemes-of-anonymous-communication.md',
+    title: 'Concepts and Schemes of Anonymous Communication',
+    subtitle: 'Practical Approaches and Implementation Challenges',
+    order: 3,
+    slug: 'concepts-and-schemes-of-anonymous-communication'
+  },
+  {
+    file: 'in-depth-analysis-of-bitmessage.md',
+    title: 'In-depth Analysis of BitMessage',
+    subtitle: 'Case Study of a Practical Anonymous Messaging System',
+    order: 4,
+    slug: 'in-depth-analysis-of-bitmessage'
+  },
+  {
+    file: 'conclusion-of-thesis.md',
+    title: 'Conclusion of Thesis',
+    subtitle: 'Summary and Future Directions',
+    order: 5,
+    slug: 'conclusion-of-thesis'
+  },
+  {
+    file: 'anonymity-bibliography.md',
+    title: 'Bibliography and References',
+    subtitle: 'Complete Academic References and Sources',
+    order: 6,
+    slug: 'anonymity-bibliography'
+  }
+];
+
+function generateAnonymitySidebar(currentSlug) {
+  const currentChapter = anonymitySeries.find(ch => ch.slug === currentSlug);
+  const currentOrder = currentChapter ? currentChapter.order : -1;
+  
+  let sidebarHtml = `
+    <div class="anonymity-sidebar" id="anonymity-sidebar">
+      <div class="anonymity-sidebar-header">
+        <h3 class="anonymity-sidebar-title">📚 Anonymity Research</h3>
+        <p class="anonymity-sidebar-subtitle">Anonymous Communication Systems</p>
+      </div>
+      <ul class="anonymity-sidebar-nav">
+  `;
+  
+  for (const chapter of anonymitySeries) {
+    const isCurrent = chapter.order === currentOrder;
+    const currentClass = isCurrent ? ' class="current"' : '';
+    
+    if (chapter.order === 0) {
+      // Index page
+      sidebarHtml += `
+        <li${currentClass}>
+          <a href="/${chapter.slug}/">
+            <span class="chapter-title">${chapter.title}</span>
+            <span class="chapter-subtitle">${chapter.subtitle}</span>
+          </a>
+        </li>
+      `;
+    } else {
+      // Regular chapters
+      sidebarHtml += `
+        <li${currentClass}>
+          <a href="/${chapter.slug}/">
+            <span class="chapter-number">${chapter.order}.</span>
+            <span class="chapter-title">${chapter.title}</span>
+            <span class="chapter-subtitle">${chapter.subtitle}</span>
+          </a>
+        </li>
+      `;
+    }
+  }
+  
+  sidebarHtml += `
+      </ul>
+    </div>
+    <button class="anonymity-sidebar-toggle" id="anonymity-sidebar-toggle" aria-label="Toggle series navigation">
+      📖
+    </button>
+  `;
+  
+  return sidebarHtml;
+}
+
+function isAnonymitySeriesPage(filename) {
+  return anonymitySeries.some(chapter => chapter.file === filename);
+}
+
+function getAnonymitySlug(filename) {
+  const chapter = anonymitySeries.find(ch => ch.file === filename);
+  return chapter ? chapter.slug : null;
+}
+
 // Ensure dist directory exists
 fs.ensureDirSync(distDir);
 
@@ -100,6 +214,18 @@ markdownFiles.forEach(mdFile => {
     .replace('{{title}}', attributes.title || 'Untitled')
     .replace('{{description}}', attributes.description || '')
     .replace('{{page_content}}', pageHtml);
+  
+  // Inject anonymity sidebar for series pages
+  if (isAnonymitySeriesPage(mdFile)) {
+    const slug = getAnonymitySlug(mdFile);
+    const sidebarHtml = generateAnonymitySidebar(slug);
+    
+    // Inject sidebar before closing body tag
+    fullHtml = fullHtml.replace('</body>', `${sidebarHtml}</body>`);
+    
+    // Add anonymity-series class to body
+    fullHtml = fullHtml.replace('<body>', '<body class="anonymity-series">');
+  }
   
   // Determine output path
   const outputFilename = mdFile.replace('.md', '.html');

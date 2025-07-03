@@ -714,4 +714,183 @@ body.dark-mode .post-card-title a {
 body.dark-mode .post-card-title a:hover,
 body.dark-mode .featured-post-title a:hover {
   color: #93c5fd; /* A lighter blue for hover */
+}
+
+/* Anonymity Series Floating Sidebar */
+.anonymity-sidebar {
+  position: fixed;
+  left: 20px;
+  top: 50%;
+  transform: translateY(-50%);
+  width: 280px;
+  max-height: 80vh;
+  background: var(--color-background);
+  border: 1px solid var(--color-border);
+  border-radius: var(--radius-lg);
+  box-shadow: 0 10px 25px var(--color-shadow);
+  z-index: 50;
+  opacity: 0;
+  pointer-events: none;
+  transition: opacity var(--transition-normal), transform var(--transition-normal);
+  padding: var(--spacing-6);
+  overflow-y: auto;
+  font-size: 0.875rem;
+}
+
+.anonymity-sidebar.visible {
+  opacity: 1;
+  pointer-events: auto;
+}
+
+.anonymity-sidebar-header {
+  margin-bottom: var(--spacing-4);
+  padding-bottom: var(--spacing-3);
+  border-bottom: 1px solid var(--color-border);
+}
+
+.anonymity-sidebar-title {
+  font-family: var(--font-serif);
+  font-size: 1rem;
+  font-weight: 600;
+  margin: 0 0 var(--spacing-2) 0;
+  color: var(--color-text);
+}
+
+.anonymity-sidebar-subtitle {
+  font-size: 0.75rem;
+  color: var(--color-text-secondary);
+  margin: 0;
+  font-style: italic;
+}
+
+.anonymity-sidebar-nav {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+
+.anonymity-sidebar-nav li {
+  margin-bottom: var(--spacing-2);
+  border-radius: var(--radius-sm);
+  transition: background-color var(--transition-fast);
+}
+
+.anonymity-sidebar-nav li:hover {
+  background-color: var(--color-background-secondary);
+}
+
+.anonymity-sidebar-nav li.current {
+  background-color: rgba(58, 134, 255, 0.1);
+  border-left: 3px solid var(--color-primary);
+  padding-left: var(--spacing-2);
+}
+
+.anonymity-sidebar-nav a {
+  display: block;
+  padding: var(--spacing-2) var(--spacing-3);
+  color: var(--color-text-secondary);
+  text-decoration: none;
+  font-weight: 400;
+  line-height: 1.4;
+  transition: color var(--transition-fast);
+}
+
+.anonymity-sidebar-nav li.current a {
+  color: var(--color-primary);
+  font-weight: 500;
+}
+
+.anonymity-sidebar-nav a:hover {
+  color: var(--color-text);
+  text-decoration: none;
+}
+
+.anonymity-sidebar-nav .chapter-number {
+  font-weight: 600;
+  color: var(--color-primary);
+}
+
+.anonymity-sidebar-nav .chapter-title {
+  display: block;
+  font-size: 0.8rem;
+}
+
+.anonymity-sidebar-nav .chapter-subtitle {
+  display: block;
+  font-size: 0.7rem;
+  color: var(--color-text-tertiary);
+  margin-top: var(--spacing-1);
+}
+
+.anonymity-sidebar-toggle {
+  position: fixed;
+  left: 20px;
+  top: 120px;
+  width: 40px;
+  height: 40px;
+  background: var(--color-primary);
+  color: white;
+  border: none;
+  border-radius: 50%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  cursor: pointer;
+  box-shadow: 0 4px 12px rgba(58, 134, 255, 0.3);
+  z-index: 51;
+  transition: all var(--transition-normal);
+  font-size: 1.2rem;
+}
+
+.anonymity-sidebar-toggle:hover {
+  background: var(--color-primary-darker);
+  transform: scale(1.1);
+}
+
+.anonymity-sidebar-toggle.sidebar-open {
+  left: 320px;
+}
+
+/* Responsive behavior */
+@media (max-width: 1400px) {
+  .anonymity-sidebar {
+    width: 260px;
+  }
+}
+
+@media (max-width: 1200px) {
+  .anonymity-sidebar {
+    width: 240px;
+    left: 10px;
+  }
+  
+  .anonymity-sidebar-toggle {
+    left: 10px;
+  }
+  
+  .anonymity-sidebar-toggle.sidebar-open {
+    left: 260px;
+  }
+}
+
+@media (max-width: 768px) {
+  .anonymity-sidebar {
+    width: 100%;
+    left: 0;
+    top: var(--header-height);
+    transform: none;
+    max-height: calc(100vh - var(--header-height));
+    border-radius: 0;
+    border-left: none;
+    border-right: none;
+  }
+  
+  .anonymity-sidebar-toggle {
+    left: 10px;
+    top: calc(var(--header-height) + 10px);
+  }
+  
+  .anonymity-sidebar-toggle.sidebar-open {
+    left: 10px;
+  }
 } 

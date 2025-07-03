@@ -1,7 +1,7 @@
 ---
 title: Theoretical Anonymity - a description
 date: '2017-10-16T20:21:27.000Z'
-category: anonymity
+category: information security
 ---
 The following post is an excerpt from my MSc thesis that I finished in August 2015 (the topic was: "Investigating the security of anonymous messaging over the Internet"). In this post I describe what is meant by the term "anonymity".
 
