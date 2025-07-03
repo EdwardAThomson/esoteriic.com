@@ -8,7 +8,10 @@
     "start": "npx http-server dist",
     "archive-medium": "node scripts/archive-medium-improved.js",
     "archive-medium-puppeteer": "node scripts/archive-medium-puppeteer.js",
-    "archive-medium-simple": "node scripts/archive-medium.js"
+    "archive-medium-simple": "node scripts/archive-medium.js",
+    "archive-medium-raw": "node scripts/archive-medium-raw.js",
+    "process-medium-html": "node scripts/process-medium-html.js",
+    "convert-medium": "node scripts/convert-medium-blogs.js"
   },
   "author": "Ed Thomson",
   "license": "MIT",
