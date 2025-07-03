@@ -8,40 +8,6 @@ description: "Part of a comprehensive thesis on anonymity and anonymous communic
 ---
 
 
----
-
-## 📚 Anonymity Research Series
-
-*A comprehensive study of anonymous communication systems and their practical implementation.*
-
-[Anonymous Messaging over the Internet](/anonymity/)
-   *Overview and Index*
-
-**→** **1. [Introduction to Anonymity](/introduction-to-anonymity/)** *(current)*
-   *Understanding the Need for Anonymous Communication*
-
-2. [Theoretical Anonymity](/theoretical-anonymity/)
-   *Philosophical and Mathematical Definitions*
-
-3. [Concepts and Schemes of Anonymous Communication](/concepts-and-schemes-of-anonymous-communication/)
-   *Practical Approaches and Implementation Challenges*
-
-4. [In-depth Analysis of BitMessage](/in-depth-analysis-of-bitmessage/)
-   *Case Study of a Practical Anonymous Messaging System*
-
-5. [Conclusion of Thesis](/conclusion-of-thesis/)
-   *Summary and Future Directions*
-
-### Navigation
-
-← Previous: [Anonymous Messaging over the Internet](/anonymity/)
-
-→ Next: [Theoretical Anonymity](/theoretical-anonymity/)
-
-📖 [Return to Series Index](/anonymity/)
-
----
-
 ## Anonymity Part 1 : Introduction to Anonymity
 
 Note: This has been edited from the original to suit the blog format. Original thesis available upon request.

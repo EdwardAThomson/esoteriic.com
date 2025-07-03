@@ -8,40 +8,6 @@ description: "Part of a comprehensive thesis on anonymity and anonymous communic
 ---
 
 
----
-
-## 📚 Anonymity Research Series
-
-*A comprehensive study of anonymous communication systems and their practical implementation.*
-
-[Anonymous Messaging over the Internet](/anonymity/)
-   *Overview and Index*
-
-1. [Introduction to Anonymity](/introduction-to-anonymity/)
-   *Understanding the Need for Anonymous Communication*
-
-2. [Theoretical Anonymity](/theoretical-anonymity/)
-   *Philosophical and Mathematical Definitions*
-
-3. [Concepts and Schemes of Anonymous Communication](/concepts-and-schemes-of-anonymous-communication/)
-   *Practical Approaches and Implementation Challenges*
-
-**→** **4. [In-depth Analysis of BitMessage](/in-depth-analysis-of-bitmessage/)** *(current)*
-   *Case Study of a Practical Anonymous Messaging System*
-
-5. [Conclusion of Thesis](/conclusion-of-thesis/)
-   *Summary and Future Directions*
-
-### Navigation
-
-← Previous: [Concepts and Schemes of Anonymous Communication](/concepts-and-schemes-of-anonymous-communication/)
-
-→ Next: [Conclusion of Thesis](/conclusion-of-thesis/)
-
-📖 [Return to Series Index](/anonymity/)
-
----
-
 ## In-depth analysis: BitMessage
 
 One of the most promising schemes for facilitating anonymous communication is BitMessage \[61\]. It has been picked as potentially the strongest candidate for ensuring anonymity in communication, and in theory could achieve all five levels of anonymity (as outlined in section 2.1.4) and that it uses many of the ideas identified in section 3.2 to ensure anonymity of communicants and robustness of the network. In this chapter BitMessage will be discussed in enough detail such that its methods for providing anonymous communication can be understood, both theoretically and in practise. Weaknesses will also be addressed before a conclusion is drawn. This chapter will review the following aspects of BitMessage:

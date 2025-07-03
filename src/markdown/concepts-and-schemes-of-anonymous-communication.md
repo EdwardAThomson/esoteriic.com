@@ -8,40 +8,6 @@ description: "Part of a comprehensive thesis on anonymity and anonymous communic
 ---
 
 
----
-
-## 📚 Anonymity Research Series
-
-*A comprehensive study of anonymous communication systems and their practical implementation.*
-
-[Anonymous Messaging over the Internet](/anonymity/)
-   *Overview and Index*
-
-1. [Introduction to Anonymity](/introduction-to-anonymity/)
-   *Understanding the Need for Anonymous Communication*
-
-2. [Theoretical Anonymity](/theoretical-anonymity/)
-   *Philosophical and Mathematical Definitions*
-
-**→** **3. [Concepts and Schemes of Anonymous Communication](/concepts-and-schemes-of-anonymous-communication/)** *(current)*
-   *Practical Approaches and Implementation Challenges*
-
-4. [In-depth Analysis of BitMessage](/in-depth-analysis-of-bitmessage/)
-   *Case Study of a Practical Anonymous Messaging System*
-
-5. [Conclusion of Thesis](/conclusion-of-thesis/)
-   *Summary and Future Directions*
-
-### Navigation
-
-← Previous: [Theoretical Anonymity](/theoretical-anonymity/)
-
-→ Next: [In-depth Analysis of BitMessage](/in-depth-analysis-of-bitmessage/)
-
-📖 [Return to Series Index](/anonymity/)
-
----
-
 ## Part 3 – Concepts and schemes of anonymous communication
 
 This part of the series will introduce the key concepts in anonymous communication. It will start by describing the current problems in achieving anonymity and the difficulties that poses for maintaining privacy. Communication schemes that strive for anonymity are by definition aiming to provide better privacy. Looking at these weaknesses will provide motivation for creating and using schemes which are aimed at providing stonger notions of privacy. The latest range of schemes are presented in section 3.3.

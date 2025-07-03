@@ -8,41 +8,6 @@ description: "Complete bibliography and references for the anonymity research th
 ---
 
 
----
-
-## 📚 Anonymity Research Series
-
-*A comprehensive study of anonymous communication systems and their practical implementation.*
-
-[Anonymous Messaging over the Internet](/anonymity/)
-   *Overview and Index*
-
-1. [Introduction to Anonymity](/introduction-to-anonymity/)
-   *Understanding the Need for Anonymous Communication*
-
-2. [Theoretical Anonymity](/theoretical-anonymity/)
-   *Philosophical and Mathematical Definitions*
-
-3. [Concepts and Schemes of Anonymous Communication](/concepts-and-schemes-of-anonymous-communication/)
-   *Practical Approaches and Implementation Challenges*
-
-4. [In-depth Analysis of BitMessage](/in-depth-analysis-of-bitmessage/)
-   *Case Study of a Practical Anonymous Messaging System*
-
-5. [Conclusion of Thesis](/conclusion-of-thesis/)
-   *Summary and Future Directions*
-
-**→** **6. Bibliography and References** *(current)*
-   *Complete Academic References and Sources*
-
-### Navigation
-
-← Previous: [Conclusion of Thesis](/conclusion-of-thesis/)
-
-📖 [Return to Series Index](/anonymity/)
-
----
-
 Bibliography of thesis
 
 # Bibliography of thesis

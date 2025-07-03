@@ -8,40 +8,6 @@ description: "Part of a comprehensive thesis on anonymity and anonymous communic
 ---
 
 
----
-
-## 📚 Anonymity Research Series
-
-*A comprehensive study of anonymous communication systems and their practical implementation.*
-
-[Anonymous Messaging over the Internet](/anonymity/)
-   *Overview and Index*
-
-1. [Introduction to Anonymity](/introduction-to-anonymity/)
-   *Understanding the Need for Anonymous Communication*
-
-**→** **2. [Theoretical Anonymity](/theoretical-anonymity/)** *(current)*
-   *Philosophical and Mathematical Definitions*
-
-3. [Concepts and Schemes of Anonymous Communication](/concepts-and-schemes-of-anonymous-communication/)
-   *Practical Approaches and Implementation Challenges*
-
-4. [In-depth Analysis of BitMessage](/in-depth-analysis-of-bitmessage/)
-   *Case Study of a Practical Anonymous Messaging System*
-
-5. [Conclusion of Thesis](/conclusion-of-thesis/)
-   *Summary and Future Directions*
-
-### Navigation
-
-← Previous: [Introduction to Anonymity](/introduction-to-anonymity/)
-
-→ Next: [Concepts and Schemes of Anonymous Communication](/concepts-and-schemes-of-anonymous-communication/)
-
-📖 [Return to Series Index](/anonymity/)
-
----
-
 ## Part 2 – Defining Anonymity
 
 This chapter provides a review of the literature that discusses the definition of anonymity. There are two main sections in this chapter which deal with two different academic schools of thought: the first deals with the literature in philosophy, while the second deals with mathematics. This chapter answers the first part of the first objective by defining anonymity, it also alludes to the difficulty of assessing the assurance of anonymity. A notion of theoretical assurance is provided if a scheme were to match up to the requirements of the 5 layer model.
