@@ -5,7 +5,10 @@
   "main": "index.js",
   "scripts": {
     "build": "node scripts/build.js && node scripts/build-categories.js",
-    "start": "npx http-server dist"
+    "start": "npx http-server dist",
+    "archive-medium": "node scripts/archive-medium-improved.js",
+    "archive-medium-puppeteer": "node scripts/archive-medium-puppeteer.js",
+    "archive-medium-simple": "node scripts/archive-medium.js"
   },
   "author": "Ed Thomson",
   "license": "MIT",
@@ -20,6 +23,7 @@
     "marked-gfm-heading-id": "^3.2.0",
     "marked-highlight": "^2.0.1",
     "marked-mangle": "^1.1.11",
-    "turndown": "^7.2.0"
+    "turndown": "^7.2.0",
+    "puppeteer": "^21.0.0"
   }
 }
