@@ -345,9 +345,16 @@ for (const [oldUrl, redirectData] of Object.entries(redirects)) {
 </body>
 </html>`;
 
-    const outputPath = path.join(distDir, oldUrl);
-    fs.ensureDirSync(path.dirname(outputPath));
-    fs.writeFileSync(outputPath, redirectHtml);
+    // Handle URLs that end with '/' differently
+    if (oldUrl.endsWith('/')) {
+      const dirPath = path.join(distDir, oldUrl);
+      fs.ensureDirSync(dirPath);
+      fs.writeFileSync(path.join(dirPath, 'index.html'), redirectHtml);
+    } else {
+      const outputPath = path.join(distDir, oldUrl);
+      fs.ensureDirSync(path.dirname(outputPath));
+      fs.writeFileSync(outputPath, redirectHtml);
+    }
 }
 
 console.log('Build completed successfully!'); 
