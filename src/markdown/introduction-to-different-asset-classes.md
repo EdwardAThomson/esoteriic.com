@@ -6,8 +6,6 @@ category: "investing"
 ---
 There are many places for us to invest our money but it isn’t obvious where is the best place to invest. We need to weigh up the possible returns against the amount of risk that we are willing to accept. Each of the different types of ‘things’ that we can invest in are called asset classes. Examples of asset classes are shares, cash, commodities, property and so on.
 
-[](http://www.gutic.co.uk/index.php/articles/91-articles/reviews)
-
 The most important decision of investing is how to divide up your money into the different asset classes. Once you have set aside an amount of money that you are able to invest then you must decide where to invest it. Is it wise to put 100% of the money in stocks? Probably not. The exact percentages to be used are a consideration of theories of portfolio management. I’d suggest not worrying too much about the exact percentages. I’d suggest greater flexibility than most theories dictate, change the percentages as needed. Save some of money as cash which can be pulled quickly in case of emergency. Invest some money in shares (stocks in American English) for growth and perhaps some in bonds for generating income. Of course, it isn’t quite as simple as that but it need not be incredibly complicated. What to invest in is dependent upon the economic situation. The bond market or stock market etc isn’t always an obvious buy.
 
 Brief overview of the different classes:
