@@ -135,13 +135,3 @@ If I ever launch this game I probably won’t have an unbounded dungeon, but cre
 I’d like to give thanks to the following people from feedback on my previous blog or for engaging in discussion about random number generation.
 
 Andy and Daniel (from [Xaya](http://xaya.io/)), and [Ronan](https://twitter.com/wighawag) who is building [Ethernal World](http://ethernal.world/) which is also going to be a Roguelike with an “infinite” dungeon. Check it out. It is currently in (pre-)alpha at the moment.
-
-# About me
-
-Currently, I work at the [Web3 Foundation](https://web3.foundation/) (mainly running the [grants program](http://grants.web3.foundation/)). This blog is of a personal nature. It just so happens that my hobby aligns with work.
-
-One of the main projects of the foundation is the [Polkadot network](https://polkadot.network/). A next generation blockchain platform. To read more about the innovation that Polkadot is bringing to the blockchain industry I invite you to read the following blog post: [link](https://medium.com/polkadot-network/how-polkadot-tackles-the-biggest-problems-facing-blockchain-innovators-1affc1309b0f).
-
-# Questions / Comments?
-
-You can create a reply to me here on Medium, or reach out to me on Twitter: [@EAThomson](https://twitter.com/EAThomson).

@@ -384,11 +384,3 @@ The most promising game from this list is Guild of Guardians. I don’t mean to 
 Gods Unchained is not the type of game that I typically play, but I can see an angle of appeal for many people.
 
 Illuvium seems ok, but probably not for me. Highrise is a pass. EmberSword I could perhaps be convinced of if I see more information.
-
-# About me🎯
-
-Lately, I’ve been investigating the buzz around Ethereum’s L2 scaling solutions. I’ve been exploring blockchain gaming for a number of years nad have a keen interest in decentralized gaming.
-
-Previously, I work at the [Web3 Foundation](https://web3.foundation/) which launched the [Polkadot network](https://polkadot.network/).
-
-I’m on Twitter: [@EAThomson](https://twitter.com/EAThomson).

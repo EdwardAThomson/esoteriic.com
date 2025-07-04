@@ -148,9 +148,3 @@ More currencies could be added too, but it would be necessary to put careful con
 I had some great feedback on this blog from Colin Anderson, Ross Laurie, and Peter van der Watt from Reforged Studios.
 
 Ideas within were shaped by discussion with the [Nine Chronicles](https://nine-chronicles.com/) team and [Xaya](https://xaya.io/). We can be found in the [Decentralized Gaming discord](https://discord.gg/eZEVrSd).
-
-# About me🎯
-
-I’ve been exploring blockchain gaming for a number of years and have a keen interest in decentralized gaming.
-
-Previously, I worked at the [Web3 Foundation](https://web3.foundation/) which launched the [Polkadot network](https://polkadot.network/).

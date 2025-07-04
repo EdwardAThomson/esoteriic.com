@@ -143,11 +143,3 @@ I am once again asking you to be patient and manage your risk.
 ![](/images/1*dmLNnjCkQt4e2hb0ZoaM-A.png)
 
 *🥺👉🏼👈🏼*
-
-# About me🎯
-
-I spend the majority of my time worrying about not being wiped out by the crypto market. When I find spare time I enjoy chatting to new teams just starting their journey in the industry.
-
-Previously, I work at the [Web3 Foundation](https://web3.foundation/) (mainly running the [grants program](http://grants.web3.foundation/)) which launched the [Polkadot network](https://polkadot.network/).
-
-I’m on Twitter: [@EAThomson](https://twitter.com/EAThomson).

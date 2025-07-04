@@ -82,15 +82,3 @@ This proverbial moat ought to last some time, but I do find the competition to b
 One interesting thing I found out during my visit to this meetup is that **Binance** *now have a presence in Liechtenstein*. There was a newspaper clipping on the one of the bulletin boards in the venue, but I can’t say that I had read that anywhere else! They have opened a post box for one of their subsidiaries, at the very least. Although [Coin Telegraph](https://cointelegraph.com/news/binance-lcx-launches-fiat-to-crypto-exchange-in-liechtenstein) and others did pick up the story.
 
 In [my previous article](https://medium.com/@edward.thomson/business-banking-for-blockchain-organisations-eb889b24a842) I pointed out that Malta may not be the easiest place to bank. Sure, that was anecdotal evidence but corroborate that with this latest revelation and it does add up to be quite believeable.
-
-# About me
-
-Currently, I work at the [Web3 Foundation](https://web3.foundation/), covering numerous responsibilities, but mainly security and communications.
-
-One of the main projects of the foundation is the [Polkadot network](https://polkadot.network). A next generation blockchain platform. To read more about the innovation that Polkadot is bringing to the blockchain industry I invite you to read the following blog post: \[[link](https://medium.com/polkadot-network/how-polkadot-tackles-the-biggest-problems-facing-blockchain-innovators-1affc1309b0)\].
-
-I also set up the first Polkadot fan-site which you can find here: [Polkadot Market](https://polkadot.market/).
-
-# Questions / Comments?
-
-You can create a reply to me here on Medium, or reach out to me on Twitter: [@EAThomson](https://twitter.com/EAThomson).

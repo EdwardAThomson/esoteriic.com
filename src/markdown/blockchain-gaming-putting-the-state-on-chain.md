@@ -114,13 +114,3 @@ This suggestion is fairly theoretical at the moment but I’d love to see someon
 In the next post I delve into the idea of putting the game state on-chain. I propose how to build a simple online RPG game. I also discuss how I think Polkadot can be used to power the future of online games.
 
 Next post: [Using Polkadot to power the future of online multiplayer games](https://medium.com/@edward.thomson/using-polkadot-to-power-the-future-of-online-multiplayer-games-e8b52afae0b0)
-
-# About me
-
-Currently, I work at the [Web3 Foundation](https://web3.foundation/), covering numerous responsibilities (such as security and communications). This blog is of a personal nature. It just so happens that my hobby aligns with work.
-
-One of the main projects of the foundation is the [Polkadot network](https://polkadot.network). A next generation blockchain platform. To read more about the innovation that Polkadot is bringing to the blockchain industry I invite you to read the following blog post: [link](https://medium.com/polkadot-network/how-polkadot-tackles-the-biggest-problems-facing-blockchain-innovators-1affc1309b0f).
-
-# Questions / Comments?
-
-You can create a reply to me here on Medium, or reach out to me on Twitter: [@EAThomson](https://twitter.com/EAThomson).

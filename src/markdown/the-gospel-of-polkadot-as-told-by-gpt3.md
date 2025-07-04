@@ -108,11 +108,3 @@ The temperature parameter is a way of letting the tool take some creative libert
 It was from the trial and error of picking a list of topics that are “good” that I could generate the above blog in one-shot given the prompt.
 
 I’ve come across some people who have created scripts to auto-generate a blog using the OpenAI API. For popular topics I could imagine it is easy to give a short prompt and get a decent answer, but for niche topics it involves a lot more trial and error.
-
-# About me🎯
-
-I’m new to learning about AI stuff. It seems like a fascinating topic.
-
-Previously, I work at the [Web3 Foundation](https://web3.foundation/) (mainly running the [grants program](http://grants.web3.foundation/)) which launched the [Polkadot network](https://polkadot.network/).
-
-I’m on Twitter: [@EAThomson](https://twitter.com/EAThomson).

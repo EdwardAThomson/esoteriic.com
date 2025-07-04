@@ -70,15 +70,3 @@ Let’s discuss!
 # Real Time Gaming
 
 While I believe there are some tricks that can be played with the animation in the game client, I also have an interest in figuring out how to create a fully decentralized real time game. This is separate initiative from the above mentioned Roguelike. Funding is also available via [Xaya](https://xaya.io/).
-
-# About me🎯
-
-Currently, I am an advisor and consultant to various blockchain / web 3 startups. My biggest interest right now is decentralized gaming. It is in much need for funding and brain power.
-
-Previously, I work at the [Web3 Foundation](https://web3.foundation/) (mainly running the [grants program](http://grants.web3.foundation/)). This blog is of a personal nature. It just so happens that my hobby aligns with work. One of the main projects of the foundation is the [Polkadot network](https://polkadot.network/). A next generation blockchain platform.
-
-# Questions / Comments?❓
-
-You can create a reply to me here on Medium, or reach out to me on Twitter: [@EAThomson](https://twitter.com/EAThomson).
-
-Personal website: [http://edthomson.com/](http://edthomson.com/)

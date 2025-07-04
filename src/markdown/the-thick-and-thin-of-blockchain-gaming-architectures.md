@@ -191,13 +191,3 @@ The diagrams here are simplifications, but I think they illustrate the idea well
 I’m naturally drawn towards fully decentralised solutions. Personally, I think that a gaming chain can be tailored to it’s use case like Xaya. I think it makes sense to store moves on-chain as well as having gaming assets stored directly on-chain too. Anything of value should really stored on a blockchain where it can be traded or kept as the owner desires.
 
 Decentralised gaming is the ‘**what**’, the architecture is the ‘**how**’, while true ownership and preventing cheating is ‘**why**’.
-
-# About me
-
-Currently, I work at the [Web3 Foundation](https://web3.foundation/) (mainly running the [grants program](http://grants.web3.foundation/)). This blog is of a personal nature. It just so happens that my hobby aligns with work.
-
-One of the main projects of the foundation is the [Polkadot network](https://polkadot.network/). A next generation blockchain platform. To read more about the innovation that Polkadot is bringing to the blockchain industry I invite you to read the following blog post: [link](https://medium.com/polkadot-network/how-polkadot-tackles-the-biggest-problems-facing-blockchain-innovators-1affc1309b0f).
-
-# Questions / Comments?
-
-You can create a reply to me here on Medium, or reach out to me on Twitter: [@EAThomson](https://twitter.com/EAThomson).

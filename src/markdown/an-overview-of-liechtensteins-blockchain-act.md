@@ -124,15 +124,3 @@ There are more requirements, but these seemed like the main ones. The process fo
 # Thanks
 
 I want to extend thanks to Thomas Nägele for allowing me to use the pictures from his presentation, and to Alexis Esneault of Nägele Rechtsanwälte for sending the English translation and for answering a couple of quick questions with regards to the wording of the law.
-
-# About me
-
-Currently, I work at the [Web3 Foundation](https://web3.foundation/), covering numerous responsibilities, but mainly security and communications.
-
-One of the main projects of the foundation is the [Polkadot network](https://polkadot.network). A next generation blockchain platform. To read more about the innovation that Polkadot is bringing to the blockchain industry I invite you to read the following blog post: [link](https://medium.com/polkadot-network/how-polkadot-tackles-the-biggest-problems-facing-blockchain-innovators-1affc1309b0f).
-
-# Questions / Comments?
-
-You can create a reply to me here on Medium, or reach out to me on Twitter: [@EAThomson](https://twitter.com/EAThomson).
-
-**Disclaimer**: I am not a lawyer. This blog post does not constitute legal advice.

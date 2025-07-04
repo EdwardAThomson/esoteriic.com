@@ -156,13 +156,3 @@ Given that Substrate has governance modules then it would make sense to adapt an
 If a similar system is adopted then players will be able to vote, hopefully rationally, on measures that will improve the economy. If too many tokens exist then potentially players can vote on whether to remove excess supply. If a player, or group of players, has found an exploit that can’t be easily reverted then governance would allow for an irregular state transition to remove those players. The governance modules should probably enforce a super-majority of active players in order to pass the motion.
 
 Before Polkadot goes live there will be a Substrate based chain called [Edgeware](https://edgewa.re/) which will allow on-chain governance to be tested. It is a Turing complete smart contract platform where tokens will have real value.
-
-# About me
-
-Currently, I work at the [Web3 Foundation](https://web3.foundation/), covering numerous responsibilities (such as security and communications). This blog is of a personal nature. It just so happens that my hobby aligns with work.
-
-One of the main projects of the foundation is the [Polkadot network](https://polkadot.network). A next generation blockchain platform. To read more about the innovation that Polkadot is bringing to the blockchain industry I invite you to read the following blog post: [link](https://medium.com/polkadot-network/how-polkadot-tackles-the-biggest-problems-facing-blockchain-innovators-1affc1309b0f).
-
-# Questions / Comments?
-
-You can create a reply to me here on Medium, or reach out to me on Twitter: [@EAThomson](https://twitter.com/EAThomson).

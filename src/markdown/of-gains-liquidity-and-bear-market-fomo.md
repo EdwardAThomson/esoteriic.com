@@ -132,11 +132,3 @@ So my overall approach will be to consider a range of market caps, across a rang
 Before we have a full-blown bull market I actually wonder if we will have a bull trap first then sucks in less experienced players before spitting them out again.
 
 I suppose I should also say that it is wise not put all of your capital into one project, nor to put in all your money on a single day.
-
-# About me🎯
-
-I spend the majority of my time worrying about not being wiped out by the crypto market. When I find spare time I enjoy chatting to new teams just starting their journey in the industry.
-
-Previously, I work at the [Web3 Foundation](https://web3.foundation/) (mainly running the [grants program](http://grants.web3.foundation/)) which launched the [Polkadot network](https://polkadot.network/).
-
-I’m on Twitter: [@EAThomson](https://twitter.com/EAThomson).

@@ -92,17 +92,3 @@ My older blog posts were mostly from a financial perspective rather than a techn
 I also created a page that that links to many other useful websites to help people start learning about blockchain.
 
 -   [Learning about Blockchain](https://esoteriic.com/blockchain/learning/)
-
-# About me
-
-Currently, I work at the [Web3 Foundation](https://web3.foundation/), covering numerous responsibilities, but mainly security and communications.
-
-One of the main projects of the foundation is the [Polkadot network](https://polkadot.network). A next generation blockchain platform. To read more about the innovation that Polkadot is bringing to the blockchain industry I invite you to read the following blog post: \[[link](https://medium.com/polkadot-network/how-polkadot-tackles-the-biggest-problems-facing-blockchain-innovators-1affc1309b0)\].
-
-I also set up the first Polkadot fan-site which you can find here: [Polkadot Market](https://polkadot.market/).
-
-# Questions / Comments?
-
-You can create a reply to me here on Medium, or reach out to me on Twitter: [@EAThomson](https://twitter.com/EAThomson).
-
-Personal website: [edthomson.com](https://edthomson.com)

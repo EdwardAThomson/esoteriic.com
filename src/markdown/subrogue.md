@@ -143,13 +143,3 @@ Ultimately, you could save the entire level generated inside the runtime, as wel
 Cross-parachain or cross-external chain trading in the future would merely be a cherry on top of what could be a fun game: “Gaming DeFi” does sound a bit crazy but hey… someone might want option trading to offset late delivery of their iron ore due to mass pvp ganking!
 
 Finally, I hope this examples demonstrates the possibility of creating a gaming DappChain.
-
-# About me
-
-Currently, I work at the [Web3 Foundation](https://web3.foundation/) (mainly running the [grants program](http://grants.web3.foundation/)). This blog is of a personal nature. It just so happens that my hobby aligns with work.
-
-One of the main projects of the foundation is the [Polkadot network](https://polkadot.network/). A next generation blockchain platform. To read more about the innovation that Polkadot is bringing to the blockchain industry I invite you to read the following blog post: [link](https://medium.com/polkadot-network/how-polkadot-tackles-the-biggest-problems-facing-blockchain-innovators-1affc1309b0f).
-
-# Questions / Comments?
-
-You can create a reply to me here on Medium, or reach out to me on Twitter: [@EAThomson](https://twitter.com/EAThomson).

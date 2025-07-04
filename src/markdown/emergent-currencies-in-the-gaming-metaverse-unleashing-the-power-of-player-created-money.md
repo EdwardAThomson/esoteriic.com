@@ -170,7 +170,3 @@ The future of gaming is ripe for exploration and experimentation, and player-cre
 [Colin Anderson](https://twitter.com/denkicolin) ([blog](https://funandfungibility.substack.com/)), ChatGPT. Thank you guys! 🙂
 
 I wrote this article but got hit with writer’s block for weeks. I used ChatGPT to help me reword it and provide a conclusion… plus the title. I’m never so creative with titles. 😅
-
-# About Me 👉
-
-Oftentimes trollposting on [twitter](https://twitter.com/EAThomson).

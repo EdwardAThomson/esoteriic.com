@@ -184,11 +184,3 @@ The team seem to be enjoying some success and I’d put that down to:
 -   Targetting the NFT market which was the most hyped in 2021.
 
 In the next blog I will provide an [overview of the 5 most active gaming projects in the Immutable ecosystem](/top-5-most-active-games-on-immutable-e0c2c61b2b24).
-
-# About me🎯
-
-Lately, I’ve been investigating the buzz around Ethereum’s L2 scaling solutions.
-
-Previously, I work at the [Web3 Foundation](https://web3.foundation/) which launched the [Polkadot network](https://polkadot.network/).
-
-I’m on Twitter: [@EAThomson](https://twitter.com/EAThomson).

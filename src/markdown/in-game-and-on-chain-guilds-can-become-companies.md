@@ -88,13 +88,3 @@ The future of [interoperating](http://polkadot.network) on-chain guilds where me
 ![](/images/1*A70wCLBlwPUQcITwie1vwg.png)
 
 *Visualising cross-chain interoperability ([Source](https://medium.com/polkadot-network/simplified-polkadot-developer-update-2-ffa0d98ef496))*
-
-# About me
-
-Currently, I work at the [Web3 Foundation](https://web3.foundation/), covering numerous responsibilities (such as [grants](http://grants.web3.foundation), communications, and [collaboration](http://collab.web3.foundation)). This blog is of a personal nature. It just so happens that my hobby aligns with work.
-
-One of the main projects of the foundation is the [Polkadot network](https://polkadot.network). A next generation blockchain platform. To read more about the innovation that Polkadot is bringing to the blockchain industry I invite you to read the following blog post: [link](https://medium.com/polkadot-network/how-polkadot-tackles-the-biggest-problems-facing-blockchain-innovators-1affc1309b0f).
-
-# Questions / Comments?
-
-You can create a reply to me here on Medium, or reach out to me on Twitter: [@EAThomson](https://twitter.com/EAThomson).

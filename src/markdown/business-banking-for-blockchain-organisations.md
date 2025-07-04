@@ -124,13 +124,3 @@ One thing I should point out, is that there are some Swiss banks who are still w
 I think it is worth keeping an eye out for the headlines in the coming months about Swiss banks welcoming blockchain projects back as customers. Old customers who were kicked out might not return, but new customers may be willing to take the chance. The longer they refuse to take on new projects, the more damage that’s done to their reputation.
 
 This topic is very much “do your own research”. Consider other nations beyond Switzerland but be aware of the potential problems of banking in countries where the technology may not be so advanced. If you have plans to set up a business, or a foundation, then you need to be sure of the professional support that you can rely upon to help solve problems. Switzerland is still number one in that regard, but Liechtenstein is pulling up fast as a worthy competitor.
-
-# [**About me**](https://edthomson.com/)
-
-Currently, I work at the [Web3 Foundation](https://web3.foundation/), covering numerous responsibilities, but mainly security and communications.
-
-One of the main projects of the foundation is the Polkadot network. A next generation blockchain platform. To read more about the innovation that Polkadot is bringing to the blockchain industry I invite you to read the following blog post: \[[link](https://medium.com/polkadot-network/how-polkadot-tackles-the-biggest-problems-facing-blockchain-innovators-1affc1309b0)\].
-
-# Questions / Comments?
-
-You can create a reply to me here on Medium, or reach out to me on Twitter: [EAThomson](https://twitter.com/EAThomson).
