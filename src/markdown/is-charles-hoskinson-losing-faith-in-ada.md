@@ -19,6 +19,8 @@ slug: "is-charles-hoskinson-losing-faith-in-ada"
 * **Why that matters.** The BTC pivot and extra emissions deepen near-term sell pressure on ADA while expanding total Cardano-ecosystem supply into a market with muted alt-coin demand.  
 * **Long-term upside is still possible** if Bitcoin holdings appreciate and are recycled into buy-backs, and if Midnight's privacy layer drives real activity—but neither catalyst helps holders **today**.
 
+Although I'm not super optimistic.
+
 ---
 
 ## 1. A Treasury Bet on Bitcoin
@@ -39,7 +41,7 @@ Midnight—a zero-knowledge privacy side-chain backed by IOG—will distribute *
 * **Unlock schedule:** 25 % of allocations unlock every 90 days (fully unlocked after 360 days).<sup>[4](#ref4)</sup>  
 * **Staking:** ADA stakers now earn **ADA *plus* NIGHT** rewards.
 
-Unless NIGHT accrues real fees or governance value, the extra token stream is pure supply inflation:
+Unless NIGHT accrues real fees (I don't place much value on governance), the extra token stream is pure supply inflation on top of ADA's own supply inflation:
 
 | Metric | ADA | NIGHT |
 |--------|-----|-------|
@@ -71,6 +73,8 @@ Unless NIGHT accrues real fees or governance value, the extra token stream is pu
 | **Bull:** BTC treasury grows 50 %; Midnight privacy dApps gain traction. | BTC bull market; regulatory clarity on ZK privacy. | ADA retests 2021 highs (>$2). |
 | **Base:** BTC reserve flat; modest Midnight use; Cardano scaling delivers incremental TPS. | Organic L2 growth; stiff ETH/SOL competition. | ADA ranges $0.50–$1.00. |
 | **Bear:** BTC flat/falls; NIGHT overhang persists; DeFi TVL stagnates. | Risk-off macro; alt-coin fatigue. | ADA revisits 2023 lows ($0.24–$0.30). |
+
+For 2026 to allow ADA to retest highs it requires the BTC bull market, which I don't think is a given. My own personal bias on ADA is on the bearish side, but I try to offer some scenarios where my personal bias is wrong.
 
 ---
 
