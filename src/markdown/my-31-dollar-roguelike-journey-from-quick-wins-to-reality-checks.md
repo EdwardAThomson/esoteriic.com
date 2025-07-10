@@ -2,7 +2,7 @@
 title: "My $31 Roguelike Journey: From Quick Wins to Reality Checks"
 date: "2025-07-05"
 tags: gamedev,roguelike,ai-development,claude,cursor,javascript,game-programming
-category: "artificial intelligence"
+category: "artificial-intelligence"
 description: "A developer's journey building a roguelike game with AI assistance, from rapid prototyping to debugging nightmares and eventual success"
 ---
 

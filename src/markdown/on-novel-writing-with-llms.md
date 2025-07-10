@@ -2,7 +2,7 @@
 title: "On Novel Writing with LLMs"
 date: "2024-12-07"
 tags: artificial-intelligence,llm,creative-writing,openai,python,nanogenmo
-category: "artificial intelligence"
+category: "artificial-intelligence"
 description: "Exploring the potential of using large language models for novel writing through a practical Python implementation"
 ---
 

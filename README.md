@@ -13,10 +13,13 @@ You need to have [Node.js](https://nodejs.org/) and npm installed on your machin
 ### Installation
 
 1.  Clone the repo
+
     ```sh
     git clone https://github.com/EdwardAThomson/esoteriic.com.git
     ```
+
 2.  Install NPM packages
+
     ```sh
     npm install
     ```
@@ -26,6 +29,7 @@ You need to have [Node.js](https://nodejs.org/) and npm installed on your machin
 1.  **Build the website:**
 
     This command will process the markdown files, generate HTML pages, and copy static assets to the `dist` directory.
+
     ```sh
     npm run build
     ```
@@ -33,9 +37,11 @@ You need to have [Node.js](https://nodejs.org/) and npm installed on your machin
 2.  **Serve the website:**
 
     This will start a local web server to view the website.
+
     ```sh
     npm start
     ```
+    
     You can then access the website at `http://localhost:8080`.
 
 ## Build Process
