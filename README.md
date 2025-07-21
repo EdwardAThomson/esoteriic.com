@@ -1,6 +1,6 @@
 # esoteriic.com Blog
 
-This is the source code for the esoteriic.com blog, a static website built with Node.js. The blog content is migrated from an older WordPress site.
+This is the source code for the esoteriic.com blog, a static website built with Node.js. The blog content is migrated from an older WordPress site. I have also added my blogs from Medium.
 
 ## Getting Started
 
