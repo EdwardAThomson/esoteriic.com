@@ -329,11 +329,8 @@ async function build() {
     
     const years = Object.keys(postsByYear).sort((a, b) => b - a);
     
-    // Featured post logic
-    const featuredPost = postsByYear[years[0]] ? postsByYear[years[0]][0] : null;
-    if (featuredPost && postsByYear[years[0]].length > 1) {
-      postsByYear[years[0]].shift(); // Remove featured post from year listing
-    }
+    // Featured post logic - always remove featured post from year listing to prevent duplication
+    const featuredPost = postsByYear[years[0]] ? postsByYear[years[0]].shift() : null;
     
     const yearsTocHtml = `
       <div class="toc-container visible" id="years-toc">
