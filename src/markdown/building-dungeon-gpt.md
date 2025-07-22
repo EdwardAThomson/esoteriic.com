@@ -1,7 +1,7 @@
 ---
 
 Title: Building DungeonGPT: How I Built an AI-Powered Dungeon Game with React and OpenAI
-Date: 2025-07-21
+Date: "2025-07-21"
 Category: "artificial-intelligence"
 Tags: AI, JavaScript, React, OpenAI, SQLite, Web Development, Cursor
 Description: "A journey through the development of DungeonGPT, an AI-powered dungeon game built with React and OpenAI."
