@@ -194,6 +194,13 @@ async function build() {
   console.log('Starting incremental build...');
   
   const cache = loadBuildCache();
+  
+  // Clean up any stale cache entries for index.md (it should never be treated as a blog post)
+  const indexPath = path.join(markdownDir, 'index.md');
+  if (cache.files[indexPath] && cache.files[indexPath].metadata) {
+    console.log('Cleaning up stale cache entry for index.md');
+    cache.files[indexPath].metadata = null;
+  }
   const forceRebuild = process.argv.includes('--force') || templatesChanged(cache);
   
   if (forceRebuild) {
@@ -231,10 +238,15 @@ async function build() {
     const needsUpdate = forceRebuild || needsRebuild(mdPath, cache);
     
     if (!needsUpdate) {
-      // Load cached post metadata for index generation
-      const cached = cache.files[mdPath];
-      if (cached && cached.metadata) {
-        posts.push(cached.metadata);
+      // Load cached post metadata for index generation (skip index.md)
+      if (mdFile !== 'index.md') {
+        const cached = cache.files[mdPath];
+        if (cached && cached.metadata) {
+          posts.push(cached.metadata);
+          skippedCount++;
+          continue;
+        }
+      } else {
         skippedCount++;
         continue;
       }
@@ -250,21 +262,24 @@ async function build() {
     // Convert markdown to HTML
     const contentHtml = marked.parse(body);
     
-    // Create post metadata
-    const postMeta = {
-      title: attributes.title || 'Untitled',
-      date: attributes.date || new Date().toISOString(),
-      slug: mdFile.replace('.md', ''),
-      excerpt: attributes.excerpt || body.substring(0, 200).replace(/\n/g, ' ') + '...'
-    };
-    
-    posts.push(postMeta);
+    // Create post metadata (but skip index.md as it's not a blog post)
+    let postMeta = null;
+    if (mdFile !== 'index.md') {
+      postMeta = {
+        title: attributes.title || 'Untitled',
+        date: attributes.date || new Date().toISOString(),
+        slug: mdFile.replace('.md', ''),
+        excerpt: attributes.excerpt || body.substring(0, 200).replace(/\n/g, ' ') + '...'
+      };
+      
+      posts.push(postMeta);
+    }
     
     // Generate page HTML
     let pageHtml = pageTemplate
-      .replace('{{title}}', postMeta.title)
+      .replace('{{title}}', postMeta ? postMeta.title : (attributes.title || 'Untitled'))
       .replace('{{content}}', contentHtml)
-      .replace('{{date}}', new Date(postMeta.date).toDateString())
+      .replace('{{date}}', postMeta ? new Date(postMeta.date).toDateString() : '')
       .replace('{{category_link}}', attributes.category ? `<a href="/category/${attributes.category}/">${attributes.category}</a>` : '');
     
     // Add any additional front matter content
@@ -276,7 +291,7 @@ async function build() {
     
     // Fill main template
     let fullHtml = mainTemplate
-      .replace('{{title}}', postMeta.title)
+      .replace('{{title}}', postMeta ? postMeta.title : (attributes.title || 'Untitled'))
       .replace('{{description}}', attributes.description || '')
       .replace('{{page_content}}', pageHtml);
     
