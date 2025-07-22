@@ -631,29 +631,49 @@ body.dark-mode .theme-toggle .moon-icon {
 .post-card {
   background-color: var(--color-background-secondary);
   border: 1px solid var(--color-border);
-  border-radius: 8px;
-  overflow: hidden;
+  border-radius: 12px;
   display: flex;
   flex-direction: column;
-  transition: transform 0.2s ease, box-shadow 0.2s ease;
+  transition: all 0.3s ease;
   margin-bottom: 1.5rem;
+  position: relative;
+  overflow: hidden;
+}
+
+.post-card::before {
+  content: '';
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  height: 3px;
+  background: linear-gradient(90deg, var(--color-primary), var(--color-secondary));
+  transform: scaleX(0);
+  transition: transform 0.3s ease;
+}
+
+.post-card:hover::before {
+  transform: scaleX(1);
 }
 
 .post-card:hover {
-  transform: translateY(-5px);
-  box-shadow: 0 4px 12px var(--color-shadow);
+  transform: translateY(-8px);
+  box-shadow: 0 12px 35px rgba(0, 0, 0, 0.15);
+  border-color: rgba(58, 134, 255, 0.3);
 }
 
 .post-card-content {
-  padding: 1.5rem;
+  padding: 2rem;
   display: flex;
   flex-direction: column;
   flex-grow: 1;
 }
 
 .post-card-title {
-  font-size: 1.25rem;
-  margin: 0 0 0.5rem;
+  font-size: 1.5rem;
+  font-weight: 600;
+  margin: 0 0 0.75rem;
+  line-height: 1.3;
 }
 
 .post-card-title a {
@@ -666,24 +686,47 @@ body.dark-mode .theme-toggle .moon-icon {
 }
 
 .post-card-date {
-  font-size: 0.9rem;
+  font-size: 0.875rem;
   color: var(--color-text-secondary);
   margin-top: auto;
   padding-top: 1rem;
+  font-weight: 500;
+  letter-spacing: 0.025em;
 }
 
 /* Featured Post */
 .featured-post {
-  background-color: var(--color-background-secondary);
+  background: linear-gradient(135deg, var(--color-background-secondary) 0%, rgba(58, 134, 255, 0.05) 100%);
   border: 1px solid var(--color-border);
-  border-radius: 8px;
-  padding: 2rem;
-  margin-bottom: 2rem;
+  border-radius: 12px;
+  padding: 2.5rem;
+  margin-bottom: 3rem;
+  position: relative;
+  overflow: hidden;
+  box-shadow: 0 4px 20px rgba(0, 0, 0, 0.08);
+  transition: transform 0.2s ease, box-shadow 0.2s ease;
+}
+
+.featured-post:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 8px 30px rgba(0, 0, 0, 0.12);
+}
+
+.featured-post::before {
+  content: '';
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  height: 4px;
+  background: linear-gradient(90deg, var(--color-primary), var(--color-secondary));
 }
 
 .featured-post-title {
-  font-size: 2rem;
-  margin: 0 0 0.5rem;
+  font-size: 2.25rem;
+  margin: 0 0 0.75rem;
+  font-weight: 700;
+  line-height: 1.2;
 }
 
 .featured-post-title a {
@@ -699,8 +742,9 @@ body.dark-mode .theme-toggle .moon-icon {
 
 .featured-post-excerpt p {
   margin: 0;
-  font-size: 1.1rem;
-  line-height: 1.6;
+  font-size: 1.125rem;
+  line-height: 1.7;
+  color: var(--color-text-secondary);
 }
 
 body.dark-mode .featured-post-title a {
@@ -714,6 +758,151 @@ body.dark-mode .post-card-title a {
 body.dark-mode .post-card-title a:hover,
 body.dark-mode .featured-post-title a:hover {
   color: #93c5fd; /* A lighter blue for hover */
+}
+
+/* Year Sections */
+.year-section h2 {
+  font-size: 2.25rem;
+  margin: 3rem 0 1.5rem;
+  color: var(--color-text);
+  position: relative;
+  padding-bottom: 0.5rem;
+}
+
+.year-section h2::after {
+  content: '';
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  width: 60px;
+  height: 3px;
+  background: linear-gradient(90deg, var(--color-primary), var(--color-secondary));
+  border-radius: 2px;
+}
+
+.year-section {
+  margin-bottom: 2rem;
+}
+
+.year-section:first-of-type h2 {
+  margin-top: 2rem;
+}
+
+.year-section:last-of-type {
+  margin-bottom: 0;
+}
+
+/* Add subtle fade-in animation for posts */
+@keyframes fadeInUp {
+  from {
+    opacity: 0;
+    transform: translateY(20px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+.post-card {
+  animation: fadeInUp 0.6s ease-out;
+}
+
+.featured-post {
+  animation: fadeInUp 0.6s ease-out;
+}
+
+/* Stagger animation delays for a nice cascading effect */
+.post-card:nth-child(1) { animation-delay: 0.1s; }
+.post-card:nth-child(2) { animation-delay: 0.2s; }
+.post-card:nth-child(3) { animation-delay: 0.3s; }
+.post-card:nth-child(4) { animation-delay: 0.4s; }
+.post-card:nth-child(5) { animation-delay: 0.5s; }
+.post-card:nth-child(6) { animation-delay: 0.6s; }
+
+/* Improve readability with better line spacing */
+.markdown-content {
+  line-height: 1.7;
+}
+
+/* Add a subtle background pattern for visual interest */
+body {
+  background-image: radial-gradient(circle at 1px 1px, rgba(58, 134, 255, 0.03) 1px, transparent 0);
+  background-size: 20px 20px;
+}
+
+/* Years TOC Styling */
+.toc-container.visible {
+  background: var(--color-background-secondary);
+  border: 1px solid var(--color-border);
+  border-radius: 12px;
+  padding: 1.5rem;
+  margin-bottom: 2rem;
+  box-shadow: 0 2px 10px rgba(0, 0, 0, 0.05);
+}
+
+.toc-title {
+  font-size: 1.125rem;
+  font-weight: 600;
+  margin-bottom: 1rem;
+  color: var(--color-text);
+}
+
+.toc-list {
+  display: flex;
+  flex-direction: column;
+  gap: 0.5rem;
+  list-style: none !important;
+  margin: 0;
+  padding: 0;
+}
+
+.toc-list-item {
+  list-style: none !important;
+  list-style-type: none !important;
+}
+
+.toc-list-item::before {
+  display: none !important;
+}
+
+.toc-list-item::marker {
+  display: none !important;
+}
+
+.toc-list-item a {
+  display: block;
+  padding: 0.75rem 1rem;
+  background: var(--color-background);
+  border: 1px solid var(--color-border);
+  border-radius: 8px;
+  color: var(--color-text-secondary);
+  text-decoration: none;
+  font-weight: 500;
+  font-size: 0.875rem;
+  transition: all 0.2s ease;
+  text-align: center;
+}
+
+.toc-list-item a:hover {
+  background: var(--color-primary);
+  color: white;
+  border-color: var(--color-primary);
+  transform: translateY(-1px);
+}
+
+@media (max-width: 768px) {
+  .post-card-content {
+    padding: 1.5rem;
+  }
+  
+  .featured-post {
+    padding: 1.5rem;
+  }
+  
+  .year-section h2 {
+    font-size: 1.875rem;
+  }
 }
 
 /* Anonymity Series Floating Sidebar */

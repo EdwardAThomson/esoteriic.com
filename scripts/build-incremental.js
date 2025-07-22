@@ -356,8 +356,8 @@ async function build() {
     
     let postsHtml = '';
     years.forEach(year => {
+      postsHtml += `<div class="year-section">`;
       postsHtml += `<h2 id="year-${year}">${year}</h2>`;
-      postsHtml += '<div class="post-grid">';
       postsHtml += postsByYear[year].map(post => `
         <div class="post-card">
           <div class="post-card-content">
