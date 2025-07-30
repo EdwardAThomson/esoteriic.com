@@ -2,7 +2,7 @@
 title: "From Bitcoin to Polkadot: A brief history of consensus and finality in blockchains"
 date: "2018-09-05"
 tags: blockchain,polkadot,ethereum,medium-archive
-category: "blockchain and cryptocurrency"
+category: "blockchain-and-cryptocurrency"
 description: "From Bitcoin to Polkadot: A brief history of consensus and finality in blockchains"
 original_url: "https://medium.com/polkadot-network/consensus-and-finality-in-blockchains-21b1f634fd00"
 ---

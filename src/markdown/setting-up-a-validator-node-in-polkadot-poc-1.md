@@ -2,7 +2,7 @@
 title: "Setting up a validator node in Polkadot PoC-1"
 date: "2018-06-25"
 tags: polkadot,medium-archive
-category: "blockchain and cryptocurrency"
+category: "blockchain-and-cryptocurrency"
 description: "Setting up a validator node in Polkadot PoC-1"
 original_url: "https://medium.com/polkadot-network/setting-up-a-validator-node-in-polkadot-poc-1-96526ae000c3"
 ---

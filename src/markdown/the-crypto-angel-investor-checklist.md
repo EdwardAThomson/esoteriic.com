@@ -2,7 +2,7 @@
 title: "The Crypto Angel Investor Checklist"
 date: "2024-07-07"
 tags: blockchain,polkadot,cryptocurrency,investment,medium-archive
-category: "blockchain and cryptocurrency"
+category: "blockchain-and-cryptocurrency"
 description: "a free checklist to help improve your investment process"
 original_url: "https://edward-thomson.medium.com/the-crypto-angel-investor-checklist-6fa0d95eddfb"
 ---

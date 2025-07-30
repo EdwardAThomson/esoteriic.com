@@ -2,7 +2,7 @@
 title: "In game and on-chain: guilds can become companies"
 date: "2019-03-16"
 tags: blockchain,gaming,polkadot,web3,business,medium-archive
-category: "blockchain and cryptocurrency"
+category: "blockchain-and-cryptocurrency"
 description: "blockchain technology will allow in-game organisations to become real companies that exist on-chain."
 original_url: "https://edward-thomson.medium.com/in-game-and-on-chain-guilds-can-become-companies-4f10d7906b2e"
 ---

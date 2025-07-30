@@ -2,7 +2,7 @@
 title: "Crypto ain’t dead; but is it cycling or supercycling?"
 date: "2022-05-15"
 tags: polkadot,ethereum,cryptocurrency,web3,medium-archive
-category: "blockchain and cryptocurrency"
+category: "blockchain-and-cryptocurrency"
 description: "The cycles of cryptocurrency investing"
 original_url: "https://edward-thomson.medium.com/crypto-aint-dead-but-is-it-cycling-or-supercycling-499d69b8c0e0"
 ---

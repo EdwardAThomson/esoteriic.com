@@ -2,7 +2,7 @@
 title: "Preventing cheaters in Fog Of War Games"
 date: "2020-05-31"
 tags: blockchain,gaming,polkadot,ethereum,cryptocurrency,web3,defi,medium-archive
-category: "blockchain and cryptocurrency"
+category: "blockchain-and-cryptocurrency"
 description: "I think we can use blockchains to solve cheating in Fog of War games."
 original_url: "https://edward-thomson.medium.com/preventing-cheaters-in-fog-of-war-games-69f202fbe107"
 ---

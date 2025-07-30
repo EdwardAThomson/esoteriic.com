@@ -2,7 +2,7 @@
 title: "The gospel of Polkadot as told by GPT3"
 date: "2022-10-19"
 tags: blockchain,polkadot,cryptocurrency,web3,medium-archive
-category: "blockchain and cryptocurrency"
+category: "blockchain-and-cryptocurrency"
 description: "I generated this blog in  OpenAI’s playground "
 original_url: "https://edward-thomson.medium.com/the-gospel-of-polkadot-as-told-by-gpt3-fe2873fae772"
 ---

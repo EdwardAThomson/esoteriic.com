@@ -2,7 +2,7 @@
 title: "Fork off! Preserving gaming communities with blockchain technology"
 date: "2019-12-20"
 tags: blockchain,gaming,polkadot,web3,medium-archive
-category: "blockchain and cryptocurrency"
+category: "blockchain-and-cryptocurrency"
 description: "player histories are preserved when communities decide to leave an official server for an unofficial one!"
 original_url: "https://edward-thomson.medium.com/fork-off-preserving-gaming-communities-with-blockchain-technology-4d90c04d0b8e"
 ---

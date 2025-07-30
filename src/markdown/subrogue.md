@@ -2,7 +2,7 @@
 title: "SubRogue"
 date: "2019-10-20"
 tags: blockchain,gaming,polkadot,cryptocurrency,web3,defi,medium-archive
-category: "blockchain and cryptocurrency"
+category: "blockchain-and-cryptocurrency"
 description: "a simple Rogue-like game that builds on Parity’s Substrate"
 original_url: "https://edward-thomson.medium.com/subrogue-8c0a537f02d4"
 ---

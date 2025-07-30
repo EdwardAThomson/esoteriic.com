@@ -2,7 +2,7 @@
 title: "True ownership needs provable on-chain assets"
 date: "2019-03-09"
 tags: blockchain,gaming,polkadot,cryptocurrency,web3,investment,medium-archive
-category: "blockchain and cryptocurrency"
+category: "blockchain-and-cryptocurrency"
 description: "for true ownership in blockchain games, the assets and the state must be on-chain."
 original_url: "https://edward-thomson.medium.com/true-ownership-needs-provable-on-chain-assets-cf347ff0f384"
 ---

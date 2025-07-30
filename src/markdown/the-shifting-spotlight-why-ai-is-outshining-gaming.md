@@ -2,7 +2,7 @@
 title: "The Shifting Spotlight: Why AI Is Outshining Gaming"
 date: "2025-02-15"
 tags: blockchain,gaming,cryptocurrency,business,investment,medium-archive
-category: "blockchain and cryptocurrency"
+category: "blockchain-and-cryptocurrency"
 description: "AI is growing faster than gaming."
 original_url: "https://edward-thomson.medium.com/the-shifting-spotlight-why-ai-is-outshining-gaming-a066d2a7484a"
 ---

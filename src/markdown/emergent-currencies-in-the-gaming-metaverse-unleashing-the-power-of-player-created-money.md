@@ -2,7 +2,7 @@
 title: "Emergent Currencies in the Gaming Metaverse: Unleashing the Power of Player-Created Money"
 date: "2023-04-07"
 tags: blockchain,gaming,ethereum,cryptocurrency,medium-archive
-category: "blockchain and cryptocurrency"
+category: "blockchain-and-cryptocurrency"
 description: "an outline for implementing player-created currencies"
 original_url: "https://edward-thomson.medium.com/emergent-currencies-in-the-gaming-metaverse-unleashing-the-power-of-player-created-money-7b36b449503c"
 ---

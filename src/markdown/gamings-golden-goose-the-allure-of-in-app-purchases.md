@@ -2,7 +2,7 @@
 title: "Gaming’s Golden Goose: The Allure of In-App Purchases"
 date: "2023-09-06"
 tags: blockchain,gaming,defi,business,medium-archive
-category: "blockchain and cryptocurrency"
+category: "blockchain-and-cryptocurrency"
 description: "I outline why I think the IAP model is attractive for developers."
 original_url: "https://edward-thomson.medium.com/gamings-golden-goose-the-allure-of-in-app-purchases-4e4c49c76e3e"
 ---

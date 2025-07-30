@@ -2,7 +2,7 @@
 title: "Playing for Keeps: How Blockchain Transforms In-App Purchases to Ownership"
 date: "2023-10-15"
 tags: blockchain,gaming,defi,investment,medium-archive
-category: "blockchain and cryptocurrency"
+category: "blockchain-and-cryptocurrency"
 description: "The IAP revenue model in mobile gaming has deficient ownership rights"
 original_url: "https://edward-thomson.medium.com/playing-for-keeps-how-blockchain-transforms-in-app-purchases-to-ownership-727933b08dba"
 ---

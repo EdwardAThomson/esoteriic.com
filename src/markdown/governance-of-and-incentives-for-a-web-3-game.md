@@ -2,7 +2,7 @@
 title: "Governance of and incentives for a Web 3 game"
 date: "2019-01-19"
 tags: blockchain,gaming,polkadot,ethereum,cryptocurrency,web3,business,medium-archive
-category: "blockchain and cryptocurrency"
+category: "blockchain-and-cryptocurrency"
 description: "I outline some possibilities for paying for an open source blockchain game."
 original_url: "https://edward-thomson.medium.com/governance-of-and-incentives-for-a-web-3-game-56edefb89cd4"
 ---

@@ -2,7 +2,7 @@
 title: "Using Polkadot to power the future of online multiplayer games"
 date: "2019-01-08"
 tags: blockchain,gaming,polkadot,ethereum,cryptocurrency,web3,defi,medium-archive
-category: "blockchain and cryptocurrency"
+category: "blockchain-and-cryptocurrency"
 description: "in this piece I propose a simple multiplayer RPG game that exists entirely on-chain."
 original_url: "https://edward-thomson.medium.com/using-polkadot-to-power-the-future-of-online-multiplayer-games-e8b52afae0b0"
 ---

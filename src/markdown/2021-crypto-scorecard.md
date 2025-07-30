@@ -2,7 +2,7 @@
 title: "2021 crypto scorecard"
 date: "2022-05-16"
 tags: polkadot,ethereum,cryptocurrency,web3,medium-archive
-category: "blockchain and cryptocurrency"
+category: "blockchain-and-cryptocurrency"
 description: "investment scorecard in cryptocurrencies"
 original_url: "https://edward-thomson.medium.com/2021-crypto-scorecard-5a3f88b17acd"
 ---

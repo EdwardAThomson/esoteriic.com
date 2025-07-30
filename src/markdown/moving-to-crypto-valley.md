@@ -2,7 +2,7 @@
 title: "Moving to Crypto Valley"
 date: "2018-06-23"
 tags: blockchain,cryptocurrency,medium-archive
-category: "blockchain and cryptocurrency"
+category: "blockchain-and-cryptocurrency"
 description: "A brief guide on moving to Zug, Switzerland"
 original_url: "https://edward-thomson.medium.com/moving-to-crypto-valley-a88e1a432a51"
 ---

@@ -2,7 +2,7 @@
 title: "Multiple currencies for online games"
 date: "2023-01-30"
 tags: blockchain,gaming,polkadot,ethereum,cryptocurrency,web3,defi,medium-archive
-category: "blockchain and cryptocurrency"
+category: "blockchain-and-cryptocurrency"
 description: "I propose a 3 currency model to balance online game economies"
 original_url: "https://edward-thomson.medium.com/multiple-currencies-for-online-games-77d56e2d39b3"
 ---

@@ -2,7 +2,7 @@
 title: "Market Signals at a Crossroads: Reading Bitcoin's Next Move"
 date: "2025-07-10"
 tags: bitcoin,cryptocurrency,market-analysis,fear-greed-index,technical-analysis,trading
-category: "blockchain and cryptocurrency"
+category: "blockchain-and-cryptocurrency"
 description: "Analysis of Bitcoin's consolidation pattern and market sentiment indicators in mid-2025, examining key technical levels and the Fear & Greed Index"
 ---
 

@@ -2,7 +2,7 @@
 title: "A list of my blockchain writing"
 date: "2018-06-20"
 tags: blockchain,gaming,polkadot,ethereum,cryptocurrency,web3,business,medium-archive
-category: "blockchain and cryptocurrency"
+category: "blockchain-and-cryptocurrency"
 description: "This isn’t a super exciting story but rather a handy way for me to keep track of my blockchain writing."
 original_url: "https://edward-thomson.medium.com/a-list-of-my-blockchain-writing-4f7e868678ea"
 ---

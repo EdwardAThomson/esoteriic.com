@@ -2,7 +2,7 @@
 title: "The thick and thin of blockchain gaming architectures"
 date: "2019-12-31"
 tags: blockchain,gaming,polkadot,ethereum,cryptocurrency,web3,medium-archive
-category: "blockchain and cryptocurrency"
+category: "blockchain-and-cryptocurrency"
 description: "3 common architectural approaches to blockchain games."
 original_url: "https://edward-thomson.medium.com/the-thick-and-thin-of-blockhain-gaming-architectures-a51795156420"
 ---

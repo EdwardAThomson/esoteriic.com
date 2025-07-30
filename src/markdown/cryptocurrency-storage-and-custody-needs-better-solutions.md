@@ -2,7 +2,7 @@
 title: "Cryptocurrency storage and custody needs better solutions!"
 date: "2019-09-08"
 tags: blockchain,polkadot,ethereum,cryptocurrency,web3,defi,medium-archive
-category: "blockchain and cryptocurrency"
+category: "blockchain-and-cryptocurrency"
 description: "“Vanilla” Shamir Secret Sharing has a race condition, but it can be fixed. I outline the problem with some practical solutions."
 original_url: "https://edward-thomson.medium.com/cryptocurrency-storage-and-custody-needs-better-solutions-3eb316ec856e"
 ---

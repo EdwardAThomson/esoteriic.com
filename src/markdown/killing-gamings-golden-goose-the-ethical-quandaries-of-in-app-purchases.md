@@ -2,7 +2,7 @@
 title: "Killing Gaming’s Golden Goose: The Ethical Quandaries of In-App Purchases"
 date: "2023-09-11"
 tags: gaming,business,investment,medium-archive
-category: "blockchain and cryptocurrency"
+category: "blockchain-and-cryptocurrency"
 description: "the ethical and regulatory problems of the IAP revenue model."
 original_url: "https://edward-thomson.medium.com/killing-gamings-golden-goose-the-ethical-quandaries-of-in-app-purchases-1d569a0fd93e"
 ---

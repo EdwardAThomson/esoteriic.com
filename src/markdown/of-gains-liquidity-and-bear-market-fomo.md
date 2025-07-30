@@ -2,7 +2,7 @@
 title: "Of gains, liquidity, and bear market fomo"
 date: "2022-05-17"
 tags: blockchain,gaming,polkadot,cryptocurrency,web3,investment,medium-archive
-category: "blockchain and cryptocurrency"
+category: "blockchain-and-cryptocurrency"
 description: "strategies for navigating a reflating cryptocurrency market (when it comes)"
 original_url: "https://edward-thomson.medium.com/of-gains-liquidity-and-bear-market-fomo-456f78b325c6"
 ---

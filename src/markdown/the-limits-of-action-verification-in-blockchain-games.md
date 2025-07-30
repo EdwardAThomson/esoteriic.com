@@ -2,7 +2,7 @@
 title: "The limits of action verification in blockchain games"
 date: "2019-04-06"
 tags: blockchain,gaming,polkadot,ethereum,web3,defi,medium-archive
-category: "blockchain and cryptocurrency"
+category: "blockchain-and-cryptocurrency"
 description: "consideration of an off-chain solution to prevent cheating in blockchain games."
 original_url: "https://edward-thomson.medium.com/the-limits-of-action-verification-in-blockchain-games-8f38b7c52a30"
 ---

@@ -2,7 +2,7 @@
 title: "What Defines a “Web 3 Game,” and Is There a Better Term?"
 date: "2024-05-21"
 tags: blockchain,gaming,ethereum,cryptocurrency,web3,defi,business,medium-archive
-category: "blockchain and cryptocurrency"
+category: "blockchain-and-cryptocurrency"
 description: "I dislike the term “web 3 game” and much prefer “decentralized game”."
 original_url: "https://edward-thomson.medium.com/what-defines-a-web-3-game-and-is-there-a-better-term-c94954db2df4"
 ---

@@ -2,7 +2,7 @@
 title: "Introducing the “Open Accelerator”: A Free Resource for Web3 Founders"
 date: "2025-02-08"
 tags: blockchain,cryptocurrency,web3,investment,medium-archive
-category: "blockchain and cryptocurrency"
+category: "blockchain-and-cryptocurrency"
 description: "a free and public resource that guides web3 founders on project launches."
 original_url: "https://edward-thomson.medium.com/introducing-the-open-accelerator-a-free-resource-for-web3-founders-90e8ec38d8e1"
 ---

@@ -2,7 +2,7 @@
 title: "The worlds of Web 3 Games"
 date: "2019-01-13"
 tags: blockchain,gaming,polkadot,web3,medium-archive
-category: "blockchain and cryptocurrency"
+category: "blockchain-and-cryptocurrency"
 description: "I’m imagining the future of online games with an eye towards something that is MMO scale but replaces the old player-to-server architecture which something that is peer-to-peer."
 original_url: "https://edward-thomson.medium.com/the-worlds-of-web-3-games-7e4797126a94"
 ---

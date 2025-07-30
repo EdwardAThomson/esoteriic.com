@@ -2,7 +2,7 @@
 title: "The Future of Real-Time Decentralized Gaming"
 date: "2024-12-19"
 tags: blockchain,gaming,cryptocurrency,defi,investment,medium-archive
-category: "blockchain and cryptocurrency"
+category: "blockchain-and-cryptocurrency"
 description: "we have the seeds of real-time decentralized gaming now."
 original_url: "https://edward-thomson.medium.com/the-future-of-real-time-decentralized-gaming-528a248f766a"
 ---

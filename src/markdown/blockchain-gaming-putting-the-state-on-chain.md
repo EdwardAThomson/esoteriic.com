@@ -2,7 +2,7 @@
 title: "Blockchain gaming: putting the state on-chain"
 date: "2019-01-02"
 tags: blockchain,gaming,polkadot,cryptocurrency,web3,medium-archive
-category: "blockchain and cryptocurrency"
+category: "blockchain-and-cryptocurrency"
 description: "online games are entirely centralised, but blockchain could improve that."
 original_url: "https://edward-thomson.medium.com/blockchain-gaming-putting-the-state-on-chain-cc3915090547"
 ---

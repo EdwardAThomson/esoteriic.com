@@ -2,7 +2,7 @@
 title: "Business banking for blockchain organisations"
 date: "2018-08-04"
 tags: blockchain,polkadot,cryptocurrency,web3,defi,business,investment,medium-archive
-category: "blockchain and cryptocurrency"
+category: "blockchain-and-cryptocurrency"
 description: "Getting a business bank account for a blockchain organisation is hard."
 original_url: "https://edward-thomson.medium.com/business-banking-for-blockchain-organisations-eb889b24a842"
 ---

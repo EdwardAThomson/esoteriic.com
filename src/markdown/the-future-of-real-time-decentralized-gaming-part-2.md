@@ -2,7 +2,7 @@
 title: "The Future of Real-Time Decentralized Gaming — Part 2"
 date: "2025-01-16"
 tags: blockchain,gaming,ethereum,defi,investment,medium-archive
-category: "blockchain and cryptocurrency"
+category: "blockchain-and-cryptocurrency"
 description: "Part 2 of Real-Time Decentralized Gaming"
 original_url: "https://edward-thomson.medium.com/the-future-of-real-time-decentralized-gaming-part-2-de1aa78bb67a"
 ---

@@ -2,7 +2,7 @@
 title: "The Rational Player’s Dilemma: Justifying the High Price of Passion"
 date: "2023-09-26"
 tags: gaming,business,investment,medium-archive
-category: "blockchain and cryptocurrency"
+category: "blockchain-and-cryptocurrency"
 description: "a comparison of gaming spending compared to other hobbies"
 original_url: "https://edward-thomson.medium.com/the-rational-players-dilemma-justifying-the-high-price-of-passion-a13580c2372c"
 ---

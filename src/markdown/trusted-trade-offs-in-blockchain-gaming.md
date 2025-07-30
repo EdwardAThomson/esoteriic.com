@@ -2,7 +2,7 @@
 title: "Trusted trade-offs in blockchain gaming"
 date: "2019-12-16"
 tags: blockchain,gaming,polkadot,ethereum,cryptocurrency,web3,medium-archive
-category: "blockchain and cryptocurrency"
+category: "blockchain-and-cryptocurrency"
 description: "less trust requires greater effort."
 original_url: "https://edward-thomson.medium.com/trusted-trade-offs-in-blockchain-gaming-416faa5b8df8"
 ---

@@ -2,7 +2,7 @@
 title: "Top 5 most active games on Immutable"
 date: "2022-12-02"
 tags: blockchain,gaming,polkadot,ethereum,cryptocurrency,web3,business,investment,medium-archive
-category: "blockchain and cryptocurrency"
+category: "blockchain-and-cryptocurrency"
 description: " I look at the Top 5 most active games on Immutable’s L2"
 original_url: "https://edward-thomson.medium.com/top-5-most-active-games-on-immutable-e0c2c61b2b24"
 ---

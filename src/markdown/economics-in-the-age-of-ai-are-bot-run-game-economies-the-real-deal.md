@@ -2,7 +2,7 @@
 title: "Economics in the Age of AI: Are Bot-Run Game Economies the Real Deal?"
 date: "2023-12-13"
 tags: gaming,cryptocurrency,defi,medium-archive
-category: "blockchain and cryptocurrency"
+category: "blockchain-and-cryptocurrency"
 description: "A game economy entirely run by bots can be a real economy."
 original_url: "https://edward-thomson.medium.com/economics-in-the-age-of-ai-are-bot-run-game-economies-the-real-deal-e1c4b13767f7"
 ---

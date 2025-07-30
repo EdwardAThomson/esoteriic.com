@@ -2,7 +2,7 @@
 title: "On Infinite Multi-User Dungeons"
 date: "2020-03-29"
 tags: blockchain,polkadot,web3,medium-archive
-category: "blockchain and cryptocurrency"
+category: "blockchain-and-cryptocurrency"
 description: "I present an algorithm for generating an infinite dynamic dungeon for a blockchain-connected multi-user Roguelike game."
 original_url: "https://edward-thomson.medium.com/on-infinite-multi-user-dungeons-4ef13d275a35"
 ---

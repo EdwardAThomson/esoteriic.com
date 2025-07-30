@@ -2,7 +2,7 @@
 title: "New token-issuance norms for Web3"
 date: "2025-02-16"
 tags: ethereum,cryptocurrency,web3,business,medium-archive
-category: "blockchain and cryptocurrency"
+category: "blockchain-and-cryptocurrency"
 description: "we need issuance that matches demand. Over-abundance can’t continue."
 original_url: "https://edward-thomson.medium.com/new-token-issuance-norms-for-web3-256b100ca891"
 ---

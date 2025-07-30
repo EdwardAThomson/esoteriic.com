@@ -2,7 +2,7 @@
 title: "Research into Immutable’s L2 scaling solution"
 date: "2022-12-02"
 tags: blockchain,gaming,polkadot,ethereum,cryptocurrency,web3,investment,medium-archive
-category: "blockchain and cryptocurrency"
+category: "blockchain-and-cryptocurrency"
 description: "An overview of the Immutable L2 scaling solution"
 original_url: "https://edward-thomson.medium.com/research-into-immutables-l2-scaling-solution-46af832a3d62"
 ---

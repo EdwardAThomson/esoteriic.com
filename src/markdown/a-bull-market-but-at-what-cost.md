@@ -2,7 +2,7 @@
 title: "A Bull Market, But at What Cost?!?"
 date: "2025-02-15"
 tags: blockchain,cryptocurrency,investment,medium-archive
-category: "blockchain and cryptocurrency"
+category: "blockchain-and-cryptocurrency"
 description: "Stop buying memecoins."
 original_url: "https://edward-thomson.medium.com/a-bull-market-but-at-what-cost-285d8ffd6dba"
 ---

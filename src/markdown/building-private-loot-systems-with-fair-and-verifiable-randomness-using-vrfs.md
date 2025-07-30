@@ -2,7 +2,7 @@
 title: "Building Private Loot Systems with Fair and Verifiable Randomness Using VRFs"
 date: "2024-09-08"
 tags: blockchain,gaming,cryptocurrency,medium-archive
-category: "blockchain and cryptocurrency"
+category: "blockchain-and-cryptocurrency"
 description: "Generating loot privately on a player’s device using VRFs."
 original_url: "https://edward-thomson.medium.com/building-private-loot-systems-with-fair-and-verifiable-randomness-using-vrfs-746039dc0aa4"
 ---

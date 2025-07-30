@@ -2,7 +2,7 @@
 title: "SubRogue: Request for help"
 date: "2021-02-25"
 tags: blockchain,gaming,polkadot,web3,medium-archive
-category: "blockchain and cryptocurrency"
+category: "blockchain-and-cryptocurrency"
 description: "I have a request for help. I’d like to finish a simple decentralized game I’ve been building"
 original_url: "https://edward-thomson.medium.com/subrogue-request-for-help-cb770dd83eac"
 ---

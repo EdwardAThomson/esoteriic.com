@@ -2,7 +2,7 @@
 title: "Review of a meetup in Crypto Valley v1.2 — Vaduz, Liechtenstein"
 date: "2018-08-24"
 tags: blockchain,polkadot,cryptocurrency,web3,defi,business,medium-archive
-category: "blockchain and cryptocurrency"
+category: "blockchain-and-cryptocurrency"
 description: "I attended a cryptocurrency meetup in Vaduz"
 original_url: "https://edward-thomson.medium.com/review-of-a-meetup-in-crypto-valley-v1-2-vaduz-liechtenstein-95d8a44b2218"
 ---

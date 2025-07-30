@@ -2,7 +2,7 @@
 title: "SubRogue: a simple game with tough problems"
 date: "2020-01-05"
 tags: blockchain,polkadot,web3,medium-archive
-category: "blockchain and cryptocurrency"
+category: "blockchain-and-cryptocurrency"
 description: "I address the constructive feedback I received on my idea of a blockchain Roguelike."
 original_url: "https://edward-thomson.medium.com/subrogue-a-simple-game-with-tough-problems-87748fe2839c"
 ---

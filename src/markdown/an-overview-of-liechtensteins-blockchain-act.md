@@ -2,7 +2,7 @@
 title: "An overview of Liechtenstein’s Blockchain Act"
 date: "2018-10-24"
 tags: blockchain,polkadot,ethereum,web3,defi,medium-archive
-category: "blockchain and cryptocurrency"
+category: "blockchain-and-cryptocurrency"
 description: "the Trusted Technology Law, or Blockchain Act, of Liechtenstein"
 original_url: "https://edward-thomson.medium.com/an-overview-of-liechtensteins-blockchain-act-52ffbda0886b"
 ---
