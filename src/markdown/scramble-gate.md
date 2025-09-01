@@ -28,3 +28,7 @@ Here is a high-level summary of what I found:
 ## Lesson
 
 While it seems that scrambling and masking is not helpful, 'proving' that gave me clearer ground to explore other defenses. I suspect that a series of regexes may help to filter out a lot of prompts that contain uncommon / exotic characters, which are often used in malicious prompts. Although given the nature of LLMs, simple regexes will not be enough. We need a way to screen for intent, which is very hard for LLMs to do. Even humans can be fooled by malicious actors.
+
+## Code
+
+* [ScrambleGate](https://github.com/EdwardAThomson/Scramble-Gate)
