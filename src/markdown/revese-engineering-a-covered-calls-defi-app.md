@@ -11,6 +11,8 @@ I recently came across a DeFi project called Rysk Finance. I thought the product
 
 One issue I had is that the pricing of the products wasn't entirely clear to me. I wanted to know if the premia paid justified the risk taken. So I decided to start a chat with o3 inside ChatGPT. After some discussion I came up with a plan to build a dashboard in JavaScript that explores whether the products are well-priced in (near) real-time. The app compares the live "prices" (APR) versus a theoretical price from Black-Scholes.
 
+In the end, I wrote a small web app that does this. The code is available on GitHub: [Rysk Dashboard](https://github.com/EdwardAThomson/rysk-dashboard).
+
 
 ## What is Rysk?
 
@@ -113,6 +115,8 @@ This was a fun journey into exploring a new DeFi app, plus improving my understa
 As for Rysk itself, the dashboard confirmed my initial hypothesis: their pricing appears to be reasonably aligned with Black-Scholes theoretical values. My feeling is that the covered calls are potentially underpriced, but given these are not options then the pricing is perhaps fair.
 
 The project also highlighted how AI can accelerate the development of analytical tools, allowing individual developers to quickly build sophisticated financial dashboards that would have taken much longer using traditional development approaches.
+
+* Code on GitHub: [Rysk Dashboard](https://github.com/EdwardAThomson/rysk-dashboard)
 
 
 ---
