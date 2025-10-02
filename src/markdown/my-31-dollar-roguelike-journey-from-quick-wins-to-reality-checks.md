@@ -10,7 +10,7 @@ description: "A developer's journey building a roguelike game with AI assistance
 
 This is what $10 of spend got me from Claude Code. 💰 (this was 2nd March 2025)
 
-A simple Roguelike running in the browser - and it actually worked!
+A simple Roguelike running in the browser - and it actually worked! ([GitHub](https://github.com/EdwardAThomson/Roguelike))
 
 * Movement ⬆️
 * Room generation 🏰
@@ -112,4 +112,4 @@ But for now, I'm enjoying having a game that works, that's fun to play, and that
 
 Not bad for a $31 investment that turned into a 4-month journey.
 
-*Want to try it yourself? The code is open source on GitHub. Fair warning: it's addictive.* 
+*Want to try it yourself? The code is open source on [GitHub](https://github.com/EdwardAThomson/Roguelike). Fair warning: it's addictive.* 
