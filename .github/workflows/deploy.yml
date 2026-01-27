@@ -42,7 +42,7 @@ jobs:
         uses: actions/cache@v4
         with:
           path: .build-cache.json
-          key: build-cache-${{ hashFiles('src/templates/**', 'src/markdown/**') }}
+          key: build-cache-${{ hashFiles('src/templates/**', 'src/markdown/**', 'scripts/**') }}
           restore-keys: |
             build-cache-
       - name: Build (incremental)

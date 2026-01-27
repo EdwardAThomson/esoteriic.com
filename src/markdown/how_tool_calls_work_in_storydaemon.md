@@ -6,8 +6,6 @@ category: "artificial-intelligence"
 description: "How tool calls work in StoryDaemon, an agentic system that writes novels through emergence rather than planning."
 ---
 
-# How Tool Calls Work in StoryDaemon
-
 The StoryDaemon app uses a structured tool system that allows the AI agent to interact with the story world in a controlled, deterministic way. 
 
 Here's the complete flow:
@@ -135,6 +133,7 @@ The writer LLM then uses this information to write the scene.
 
 Here's the complete flow from planning to scene generation:
 
+```
 ┌─────────────────────────────────────────────────────────────┐
 │ 1. PLANNER LLM RECEIVES CONTEXT                            │
 │    - Recent scenes, open loops, available tools            │
@@ -176,6 +175,7 @@ Here's the complete flow from planning to scene generation:
 │    Uses character info to write prose                      │
 └─────────────────────────────────────────────────────────────┘
 
+```
 
 ## 3. Available Tools
 
