@@ -81,7 +81,7 @@ const anonymitySeries = [
 function generateAnonymitySidebar(currentSlug) {
   const currentChapter = anonymitySeries.find(ch => ch.slug === currentSlug);
   const currentOrder = currentChapter ? currentChapter.order : -1;
-  
+
   let sidebarHtml = `
     <div class="anonymity-sidebar" id="anonymity-sidebar">
       <div class="anonymity-sidebar-header">
@@ -90,11 +90,11 @@ function generateAnonymitySidebar(currentSlug) {
       </div>
       <ul class="anonymity-sidebar-nav">
   `;
-  
+
   for (const chapter of anonymitySeries) {
     const isCurrent = chapter.order === currentOrder;
     const currentClass = isCurrent ? ' class="current"' : '';
-    
+
     if (chapter.order === 0) {
       // Index page
       sidebarHtml += `
@@ -118,7 +118,7 @@ function generateAnonymitySidebar(currentSlug) {
       `;
     }
   }
-  
+
   sidebarHtml += `
       </ul>
     </div>
@@ -126,7 +126,7 @@ function generateAnonymitySidebar(currentSlug) {
       📖
     </button>
   `;
-  
+
   return sidebarHtml;
 }
 
@@ -164,16 +164,16 @@ const posts = [];
 
 markdownFiles.forEach(mdFile => {
   console.log(`Processing ${mdFile}...`);
-  
+
   // Read markdown file
   const mdContent = fs.readFileSync(path.join(markdownDir, mdFile), 'utf8');
-  
+
   // Parse front matter
   const { attributes, body } = frontMatter(mdContent);
-  
+
   // Convert markdown to HTML
   const htmlContent = marked.parse(body);
-  
+
   // Create an excerpt from the first paragraph
   const $ = cheerio.load(htmlContent);
   const excerpt = $('p').first().html();
@@ -181,10 +181,10 @@ markdownFiles.forEach(mdFile => {
   // Store post data for index page
   if (mdFile !== 'index.md') {
     posts.push({
-        ...attributes,
-        slug: mdFile.replace('.md', ''),
-        content: htmlContent,
-        excerpt: excerpt,
+      ...attributes,
+      slug: mdFile.replace('.md', ''),
+      content: htmlContent,
+      excerpt: excerpt,
     });
   }
 
@@ -193,7 +193,7 @@ markdownFiles.forEach(mdFile => {
     .replace('{{title}}', attributes.title || 'Untitled')
     .replace('{{content}}', htmlContent)
     .replace('{{date}}', attributes.date ? new Date(attributes.date).toDateString() : '');
-    
+
   if (attributes.category) {
     const categoryUrl = `/categories/${attributes.category}/`;
     const categoryLink = `in <a href="${categoryUrl}">${attributes.category.replace(/-/g, ' ')}</a>`;
@@ -201,36 +201,36 @@ markdownFiles.forEach(mdFile => {
   } else {
     pageHtml = pageHtml.replace('{{category_link}}', '');
   }
-  
+
   // Add any additional front matter content
   Object.keys(attributes).forEach(key => {
     if (key !== 'title') {
       pageHtml = pageHtml.replace(`{{${key}}}`, attributes[key] || '');
     }
   });
-  
+
   // Fill main template
   let fullHtml = mainTemplate
     .replace('{{title}}', attributes.title || 'Untitled')
     .replace('{{description}}', attributes.description || '')
     .replace('{{page_content}}', pageHtml);
-  
+
   // Inject anonymity sidebar for series pages
   if (isAnonymitySeriesPage(mdFile)) {
     const slug = getAnonymitySlug(mdFile);
     const sidebarHtml = generateAnonymitySidebar(slug);
-    
+
     // Inject sidebar before closing body tag
     fullHtml = fullHtml.replace('</body>', `${sidebarHtml}</body>`);
-    
+
     // Add anonymity-series class to body
     fullHtml = fullHtml.replace('<body>', '<body class="anonymity-series">');
   }
-  
+
   // Determine output path
   const outputFilename = mdFile.replace('.md', '.html');
   const outputPath = path.join(distDir, outputFilename);
-  
+
   // Special case for index.md
   if (mdFile === 'index.md') {
     // This will be handled later, after all posts are processed
@@ -249,37 +249,40 @@ posts.sort((a, b) => new Date(b.date) - new Date(a.date));
 // Generate index page
 const indexMdFile = path.join(markdownDir, 'index.md');
 if (fs.existsSync(indexMdFile)) {
-    const indexMdContent = fs.readFileSync(indexMdFile, 'utf8');
-    const { attributes, body } = frontMatter(indexMdContent);
-    const bodyHtml = marked.parse(body);
+  const indexMdContent = fs.readFileSync(indexMdFile, 'utf8');
+  const { attributes, body } = frontMatter(indexMdContent);
+  const bodyHtml = marked.parse(body);
 
-    // Group posts by year
-    const postsByYear = posts.reduce((acc, post) => {
-        const year = new Date(post.date).getFullYear();
-        if (!acc[year]) {
-            acc[year] = [];
-        }
-        acc[year].push(post);
-        return acc;
-    }, {});
+  // Group posts by year
+  const postsByYear = posts.reduce((acc, post) => {
+    const year = new Date(post.date).getFullYear();
+    if (!acc[year]) {
+      acc[year] = [];
+    }
+    acc[year].push(post);
+    return acc;
+  }, {});
 
-    const years = Object.keys(postsByYear).sort((a, b) => b - a);
+  const years = Object.keys(postsByYear).sort((a, b) => b - a);
 
-    // The most recent post is the first post of the most recent year.
-    const featuredPost = postsByYear[years[0]].shift();
+  // The most recent post is the first post of the most recent year.
+  const featuredPost = postsByYear[years[0]].shift();
 
-    const yearsTocHtml = `
+  // Filter out years with no posts for the TOC
+  const yearsWithPosts = years.filter(year => postsByYear[year].length > 0);
+
+  const yearsTocHtml = `
         <div class="toc-container visible" id="years-toc">
             <h3 class="toc-title">Years</h3>
             <ul class="toc-list">
-                ${years.map(year => `<li class="toc-list-item"><a href="#year-${year}">${year}</a></li>`).join('')}
+                ${yearsWithPosts.map(year => `<li class="toc-list-item"><a href="#year-${year}">${year}</a></li>`).join('')}
             </ul>
         </div>
     `;
 
-    let featuredPostHtml = '';
-    if (featuredPost) {
-        featuredPostHtml = `
+  let featuredPostHtml = '';
+  if (featuredPost) {
+    featuredPostHtml = `
             <section class="featured-post">
                 <h2 class="featured-post-title"><a href="/${featuredPost.slug}/">${featuredPost.title}</a></h2>
                 <p class="featured-post-date">${new Date(featuredPost.date).toDateString()}</p>
@@ -288,13 +291,18 @@ if (fs.existsSync(indexMdFile)) {
                 </div>
             </section>
         `;
+  }
+
+  let postsHtml = '';
+  years.forEach(year => {
+    // Skip years with no posts (e.g., when the only post is the featured post)
+    if (postsByYear[year].length === 0) {
+      return;
     }
 
-    let postsHtml = '';
-    years.forEach(year => {
-        postsHtml += `<div class="year-section">`;
-        postsHtml += `<h2 id="year-${year}">${year}</h2>`;
-        postsHtml += postsByYear[year].map(post => `
+    postsHtml += `<div class="year-section">`;
+    postsHtml += `<h2 id="year-${year}">${year}</h2>`;
+    postsHtml += postsByYear[year].map(post => `
             <div class="post-card">
                 <div class="post-card-content">
                     <h3 class="post-card-title"><a href="/${post.slug}/">${post.title}</a></h3>
@@ -302,33 +310,33 @@ if (fs.existsSync(indexMdFile)) {
                 </div>
             </div>
         `).join('');
-        postsHtml += '</div>';
-    });
+    postsHtml += '</div>';
+  });
 
-    const indexContent = bodyHtml.replace('{{posts}}', featuredPostHtml + postsHtml);
+  const indexContent = bodyHtml.replace('{{posts}}', featuredPostHtml + postsHtml);
 
-    let pageHtml = pageTemplate
-        .replace('{{title}}', attributes.title || 'Home')
-        .replace('{{content}}', indexContent)
-        .replace('{{date}}', '')
-        .replace('{{category_link}}', '');
-    
-    // Inject the years ToC into the homepage
-    pageHtml = pageHtml.replace('<div class="toc-container" id="toc-container"></div>', yearsTocHtml);
+  let pageHtml = pageTemplate
+    .replace('{{title}}', attributes.title || 'Home')
+    .replace('{{content}}', indexContent)
+    .replace('{{date}}', '')
+    .replace('{{category_link}}', '');
 
-    let fullHtml = mainTemplate
-        .replace('{{title}}', attributes.title || 'Home')
-        .replace('{{description}}', attributes.description || '')
-        .replace('{{page_content}}', pageHtml);
+  // Inject the years ToC into the homepage
+  pageHtml = pageHtml.replace('<div class="toc-container" id="toc-container"></div>', yearsTocHtml);
 
-    fs.writeFileSync(path.join(distDir, 'index.html'), fullHtml);
+  let fullHtml = mainTemplate
+    .replace('{{title}}', attributes.title || 'Home')
+    .replace('{{description}}', attributes.description || '')
+    .replace('{{page_content}}', pageHtml);
+
+  fs.writeFileSync(path.join(distDir, 'index.html'), fullHtml);
 }
 
 // Create redirects
 const redirects = fs.readJsonSync(path.join(__dirname, '../redirects.json'));
 for (const [oldUrl, redirectData] of Object.entries(redirects)) {
   const newUrl = redirectData.newUrl;
-    const redirectHtml = `<!DOCTYPE html>
+  const redirectHtml = `<!DOCTYPE html>
 <html>
 <head>
   <meta charset="utf-8">
@@ -345,16 +353,16 @@ for (const [oldUrl, redirectData] of Object.entries(redirects)) {
 </body>
 </html>`;
 
-    // Handle URLs that end with '/' differently
-    if (oldUrl.endsWith('/')) {
-      const dirPath = path.join(distDir, oldUrl);
-      fs.ensureDirSync(dirPath);
-      fs.writeFileSync(path.join(dirPath, 'index.html'), redirectHtml);
-    } else {
-      const outputPath = path.join(distDir, oldUrl);
-      fs.ensureDirSync(path.dirname(outputPath));
-      fs.writeFileSync(outputPath, redirectHtml);
-    }
+  // Handle URLs that end with '/' differently
+  if (oldUrl.endsWith('/')) {
+    const dirPath = path.join(distDir, oldUrl);
+    fs.ensureDirSync(dirPath);
+    fs.writeFileSync(path.join(dirPath, 'index.html'), redirectHtml);
+  } else {
+    const outputPath = path.join(distDir, oldUrl);
+    fs.ensureDirSync(path.dirname(outputPath));
+    fs.writeFileSync(outputPath, redirectHtml);
+  }
 }
 
 console.log('Build completed successfully!'); 
