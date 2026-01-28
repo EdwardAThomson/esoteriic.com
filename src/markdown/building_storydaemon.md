@@ -1,7 +1,7 @@
 ---
 title: "Building StoryDaemon: Teaching an AI to Discover Stories"
 date: "2025-11-30"
-tags: AI, Python, OpenAI, Gemini, Claude, Agentic Ai
+tags: AI, Python, OpenAI, Gemini, Claude, Agentic AI, AI Agents, LLMs
 category: "artificial-intelligence"
 description: "A journey through the development of StoryDaemon, an agentic system that writes novels through emergence rather than planning."
 ---

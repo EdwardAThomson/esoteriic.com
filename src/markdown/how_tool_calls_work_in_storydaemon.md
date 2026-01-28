@@ -1,7 +1,7 @@
 ---
 title: "How Tool Calls Work in StoryDaemon"
 date: "2026-01-27"
-tags: AI, Python, OpenAI, Gemini, Claude, Agentic AI, LLM, Tool Calls, StoryDaemon
+tags: AI, Python, OpenAI, Gemini, Claude, Agentic AI, LLM, Tool Calls, StoryDaemon, AI Agents
 category: "artificial-intelligence"
 description: "How tool calls work in StoryDaemon, an agentic system that writes novels through emergence rather than planning."
 ---
