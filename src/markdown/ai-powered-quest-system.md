@@ -6,6 +6,8 @@ tags: AI, JavaScript, React, OpenAI, Gemini, Game Development, Tool Calls, Quest
 description: "How we built an intelligent quest tracking system that uses LLM tool calls to automatically detect and celebrate player achievements in DungeonGPT."
 ---
 
+This is how we built an intelligent quest tracking system that uses LLM tool calls to automatically detect and celebrate player achievements in DungeonGPT.
+
 ## What is DungeonGPT?
 
 **DungeonGPT** is an AI-powered text-based RPG that brings the tabletop gaming experience to your browser. Built with React and powered by modern Large Language Models (OpenAI GPT, Google Gemini, or Anthropic Claude), it allows players to create detailed characters and embark on adventures narrated by an AI dungeon master.
