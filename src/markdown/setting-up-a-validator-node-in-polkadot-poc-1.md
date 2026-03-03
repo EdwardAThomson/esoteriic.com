@@ -11,7 +11,7 @@ original_url: "https://medium.com/polkadot-network/setting-up-a-validator-node-i
 
 **TL;DR**: a short list of instructions, but basically the same steps as Gav [wrote on GitHub](https://github.com/paritytech/polkadot). FYI, I started from a fairly clean install of Ubuntu.
 
-To make things easy I will put all the necessary commands into code blocks, plus I have included pictures of how those commands look when they run. This blog posts originally appeared as a [thread on Twitter](https://twitter.com/EAThomson/status/1001786899470614528).
+To make things easy I will put all the necessary commands into code blocks, plus I have included pictures of how those commands look when they run.
 
 # Getting Started
 
@@ -86,7 +86,3 @@ Now you are in the queue on [https://poc-1.polkadot.io/#/storage](https://poc-1.
 ![](/images/0*q8gS1Sj2_5JUd0og)
 
 *Accounts in staking queue*
-
-# Questions / Comments?
-
-You can reply to me here on Medium, or reach out to me on Twitter: [@EAThomson](https://twitter.com/EAThomson).

@@ -61,8 +61,7 @@ There are a couple of bonus pieces of functionality that would be nice to have, 
 
 # Completion and rewards 💰
 
-I can cover about a month’s worth of work and I’d be surprised if it took much longer for a skilled coder. The plan is of course, for everything to be open sourced. You can leave a private message here, find me on [Twitter](https://twitter.com/EAThomson/), or find an email address on my [website](https://edthomson.com/).
-
+I can cover about a month’s worth of work and I’d be surprised if it took much longer for a skilled coder. The plan is of course, for everything to be open sourced.
 Let’s discuss!
 
 ![](/images/0*Ps6HmQuHjYpF8P_7.png)

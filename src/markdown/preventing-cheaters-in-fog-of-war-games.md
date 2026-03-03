@@ -19,8 +19,6 @@ On Twitter, I recently posted a picture that suggests two players are looking fo
 
 ![](/images/1*tJGNbCTbwyDOppUNRsw-sA.png)
 
-*Link: [https://twitter.com/EAThomson/status/1264994996807176199](https://twitter.com/EAThomson/status/1264994996807176199)*
-
 It is typical that games have some element of surprise, where the initial map may not be fully revealed or that player positions are initially hidden from each other. In addition, the respective fields of view should also not be known to each other.
 
 It turns out that players who are skilled programmers can actually cheat and peek into the hidden parts of the map and even look at hidden player positions. Naturally, this seems like it would also be a problem for blockchain games where actions are stored publicly.

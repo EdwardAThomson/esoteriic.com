@@ -154,7 +154,3 @@ I can highly recommend getting the half-price railcard. The trains in Switzerlan
 The SwissPass costs 185 CHF but it cuts all train fares in half. This is will pay itself off in no time. If you check the [SBB](https://www.sbb.ch/en/home.html) website and buy tickets in advance then you can get even cheaper prices!
 
 Getting the pass requires having a Swiss address as well as a passport picture then you can give them for their records. You can purchase the pass by visiting a train station. Note that you will also need to bring a form of ID with you to purchase the pass. There is no check done to actually prove that you live in Switzerland but if you don’t have an address then you won’t be able to receive the card that’s sent in the post.
-
-# Questions / Comments?
-
-You can create a reply to me here on Medium, or reach out to me on Twitter: [EAThomson](https://twitter.com/EAThomson).

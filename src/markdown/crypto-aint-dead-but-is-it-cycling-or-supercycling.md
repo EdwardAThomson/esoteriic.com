@@ -142,4 +142,4 @@ I am once again asking you to be patient and manage your risk.
 
 ![](/images/1*dmLNnjCkQt4e2hb0ZoaM-A.png)
 
-*🥺👉🏼👈🏼*
+🥺👉🏼👈🏼

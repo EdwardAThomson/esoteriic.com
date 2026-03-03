@@ -77,7 +77,3 @@ Interestingly, Hoard Exchange have also thought about this problem for blockchai
 *Roadmap snippet for Hoard Exchange ([Source](https://hoard.exchange/))*
 
 **Furthermore**, a combination of Golem + Hoard could allow for a decentralised version of Google’s recently announced gaming platform “[Stadia](https://www.ign.com/articles/2019/03/21/google-announces-its-video-game-platform-stadia)”.
-
-# Invitation for feedback
-
-I love getting feedback on my articles. Feel free to create a reply here on Medium, or reach out to me on Twitter: [@EAThomson](http://twitter.com/EAThomson).

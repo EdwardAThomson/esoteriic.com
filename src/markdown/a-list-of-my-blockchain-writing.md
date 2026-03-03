@@ -11,10 +11,6 @@ original_url: "https://edward-thomson.medium.com/a-list-of-my-blockchain-writing
 
 This isn’t a super exciting story but rather a handy way for me to keep track of my blockchain writing.
 
-Twitter: [EAThomson](https://twitter.com/eathomson)
-
-Steemit: [edwardthomson](https://steemit.com/@edwardthomson)
-
 # Web3 Foundation
 
 I was a major contributor to the first version of the Web 3 Wiki hosted by W3F, plus their collaboration repo.
