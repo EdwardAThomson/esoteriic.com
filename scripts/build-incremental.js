@@ -280,7 +280,7 @@ async function build() {
       .replace('{{title}}', postMeta ? postMeta.title : (attributes.title || 'Untitled'))
       .replace('{{content}}', contentHtml)
       .replace('{{date}}', postMeta ? new Date(postMeta.date).toDateString() : '')
-      .replace('{{category_link}}', attributes.category ? `<a href="/category/${attributes.category}/">${attributes.category}</a>` : '');
+      .replace('{{category_link}}', attributes.category ? `<a href="/categories/${attributes.category}/">${attributes.category}</a>` : '');
     
     // Add any additional front matter content
     Object.keys(attributes).forEach(key => {
