@@ -2,6 +2,7 @@
 title: "Bibliography and References"
 date: 2016-08-27
 tags: security,blog-archive,bibliography
+category: "information security"
 series: "Anonymity Research"
 series_order: 6
 description: "Complete bibliography and references for the anonymity research thesis"

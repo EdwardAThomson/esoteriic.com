@@ -2,6 +2,7 @@
 title: "Introduction to Anonymity"
 date: 2016-08-27
 tags: security,blog-archive
+category: "information security"
 series: "Anonymity Research"
 series_order: 1
 description: "Part of a comprehensive thesis on anonymity and anonymous communication systems"

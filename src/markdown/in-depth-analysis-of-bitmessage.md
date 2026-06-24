@@ -2,6 +2,7 @@
 title: "In-depth analysis of BitMessage"
 date: Sat Aug 27 2016 01:00:00 GMT+0100 (British Summer Time)
 tags: security,blog-archive
+category: "information security"
 series: "Anonymity Research"
 series_order: 4
 description: "Part of a comprehensive thesis on anonymity and anonymous communication systems"

@@ -3,6 +3,7 @@ title: "Archiving Medium Blogs: A Better Approach to Content Migration"
 description: "How I successfully migrated 47 Medium blog posts to my personal website using a three-step process that preserves content integrity while avoiding common pitfalls."
 date: "2025-07-04"
 categories: ["technology", "blogging"]
+category: "computing"
 tags: ["medium", "blog migration", "content management", "web scraping", "automation"]
 slug: "archiving-medium-blogs-improved-approach"
 ---

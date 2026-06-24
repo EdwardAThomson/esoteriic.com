@@ -139,6 +139,50 @@ function getAnonymitySlug(filename) {
   return chapter ? chapter.slug : null;
 }
 
+// Prominent categories get deliberately spaced hues so the most-seen pills never collide.
+// Anything not listed falls back to a stable hash of the slug.
+const CATEGORY_HUES = {
+  'information security': 0,             // red
+  'blockchain-and-cryptocurrency': 35,  // orange
+  'book-reviews-non-fiction': 90,       // yellow-green
+  'science-technology-nature': 135,     // green
+  'computing': 180,                     // cyan
+  'investing': 210,                     // blue
+  'abstruse': 250,                      // indigo
+  'artificial-intelligence': 285,       // violet
+  'writing-craft': 315,                 // magenta
+  'book-reviews-fiction': 340,          // rose
+};
+
+// Stable hue (0-359) for a category slug, so each category keeps a consistent colour
+function categoryHue(slug) {
+  if (CATEGORY_HUES[slug] !== undefined) return CATEGORY_HUES[slug];
+  let h = 0;
+  for (let i = 0; i < slug.length; i++) {
+    h = (h * 31 + slug.charCodeAt(i)) >>> 0;
+  }
+  return h % 360;
+}
+
+// Build the category badge + first few tag pills shown inside a post card on the homepage
+function cardMetaHtml(post, maxTags = 3) {
+  let parts = '';
+  if (post.category) {
+    const categoryUrl = `/categories/${post.category}/`;
+    const hue = categoryHue(post.category);
+    const style = `background:linear-gradient(90deg,hsl(${hue},65%,45%),hsl(${(hue + 30) % 360},65%,48%))`;
+    parts += `<a class="post-card-category" style="${style}" href="${categoryUrl}">${post.category.replace(/-/g, ' ')}</a>`;
+  }
+  const rawTags = Array.isArray(post.tags) ? post.tags.join(',') : (post.tags || '');
+  const tags = String(rawTags)
+    .split(',')
+    .map(t => t.trim())
+    .filter(Boolean)
+    .slice(0, maxTags);
+  parts += tags.map(t => `<span class="post-card-tag">${t}</span>`).join('');
+  return parts ? `<div class="post-card-meta">${parts}</div>` : '';
+}
+
 // Load or create build cache
 function loadBuildCache() {
   try {
@@ -269,6 +313,8 @@ async function build() {
         title: attributes.title || 'Untitled',
         date: attributes.date || new Date().toISOString(),
         slug: mdFile.replace('.md', ''),
+        category: attributes.category || '',
+        tags: attributes.tags || '',
         excerpt: attributes.excerpt || body.substring(0, 200).replace(/\n/g, ' ') + '...'
       };
       
@@ -365,6 +411,7 @@ async function build() {
           <div class="featured-post-excerpt">
             <p>${featuredPost.excerpt}</p>
           </div>
+          ${cardMetaHtml(featuredPost)}
         </section>
       `;
     }
@@ -377,7 +424,10 @@ async function build() {
         <div class="post-card">
           <div class="post-card-content">
             <h3 class="post-card-title"><a href="/${post.slug}/">${post.title}</a></h3>
-            <p class="post-card-date">${new Date(post.date).toDateString()}</p>
+            <div class="post-card-footer">
+              <p class="post-card-date">${new Date(post.date).toDateString()}</p>
+              ${cardMetaHtml(post)}
+            </div>
           </div>
         </div>
       `).join('');

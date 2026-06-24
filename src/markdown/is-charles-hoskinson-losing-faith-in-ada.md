@@ -3,6 +3,7 @@ title: "Is Charles Hoskinson Losing Faith in ADA?"
 description: "How a Bitcoin-backed treasury and the new NIGHT token are reshaping the short-term price outlook for Cardano"
 date: "2025-07-04"
 categories: ["blockchain and cryptocurrency"]
+category: "blockchain-and-cryptocurrency"
 tags: ["cardano", "ada", "charles hoskinson", "cryptocurrency", "bitcoin", "midnight", "night token", "treasury"]
 slug: "is-charles-hoskinson-losing-faith-in-ada"
 ---

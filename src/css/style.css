@@ -713,13 +713,51 @@ body.dark-mode .theme-toggle .moon-icon {
   color: var(--color-primary);
 }
 
+.post-card-footer {
+  margin-top: auto;
+  padding-top: 1rem;
+}
+
 .post-card-date {
   font-size: 0.875rem;
   color: var(--color-text-secondary);
-  margin-top: auto;
-  padding-top: 1rem;
+  margin: 0;
   font-weight: 500;
   letter-spacing: 0.025em;
+}
+
+.post-card-meta {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 0.5rem;
+  margin-top: 0.75rem;
+}
+
+.post-card-category {
+  font-size: 0.75rem;
+  font-weight: 600;
+  text-transform: capitalize;
+  letter-spacing: 0.02em;
+  color: #fff;
+  background: linear-gradient(90deg, var(--color-primary), var(--color-secondary));
+  padding: 0.2rem 0.65rem;
+  border-radius: 999px;
+  text-decoration: none;
+  transition: opacity 0.2s ease;
+}
+
+.post-card-category:hover {
+  opacity: 0.85;
+}
+
+.post-card-tag {
+  font-size: 0.75rem;
+  color: var(--color-text-secondary);
+  background-color: var(--color-background);
+  border: 1px solid var(--color-border);
+  padding: 0.2rem 0.6rem;
+  border-radius: 999px;
 }
 
 /* Featured Post */
