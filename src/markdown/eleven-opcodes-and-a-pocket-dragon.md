@@ -6,7 +6,7 @@ tags: retro computing, fantasy console, assembly, game development, testing, sel
 description: "What I learned building a game (and the tooling around it) for a fantasy 8-bit console with almost no instructions."
 ---
 
-*What I learned building a game (and the tooling around it) for a fantasy 8-bit console with almost no instructions.*
+What I learned building a game (and the tooling around it) for a fantasy 8-bit console with almost no instructions.
 
 Every so often a project comes along that's pure play. For me, this month, it was **Dragon Palm**: a *fantasy* 8-bit handheld console that runs entirely in the browser. "Fantasy" because the hardware never existed: someone invented a plausible little 1980s machine, wrote the spec, and built an emulator for it. A 128×128 screen, sixteen colours, three registers, and a CPU with **exactly eleven instructions**.
 
