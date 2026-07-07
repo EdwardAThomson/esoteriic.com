@@ -56,6 +56,10 @@ temp/
 temp_archive/
 old/
 
+# Unpublished blog drafts (local-only; outside the build path in src/markdown/).
+# Publish by moving a file into src/markdown/ and rebuilding.
+drafts/
+
 # Keep scripts folder - it's needed for the build process
 # scripts/ - commented out, we want to include scripts
 
