@@ -1,5 +1,11 @@
 # Dev Log
 
+## 2026-07-09
+
+Published "When Not to Call the LLM: Instant Narration for DungeonGPT", a write-up of the tiered-narration work in the DungeonGPT-JS project. The post explains why routing every world-map move through the LLM was a triple loss (API cost, spinner latency, and silence for logged-out guests who are gated off the AI path), and how routine movement narration was moved into a local, deterministic `localNarrator.js` module: per-terrain template pools for arrival, revisit, and ambient lines, with all choices seeded from an FNV-1a hash of the world seed plus tile coordinates fed into mulberry32, so a reloaded save always reproduces the same log text. The LLM is reserved for the beats that actually deserve prose. As a pure addition under `src/markdown/`, the static-site build picks it up with no engine or template changes.
+
+**Decisions & notes:** The post is candid that the shipped design was simpler than the plan originally written for it, and that the pattern generalises DungeonGPT's existing fully-local combat narration. Continues the blog's recent cadence of writing up work from the author's other projects.
+
 ## 2026-07-07
 
 A new post, "Mode-7 on a Homemade 16-Bit Console", was published under `src/markdown/`. It's a technical write-up of adding the affine (Mode-7) rotating-ground-plane layer to CastlePalm, the author's fantasy 16-bit console: exposing the PPU's existing per-scanline affine capability on the memory-mapped I/O bus via three new registers plus a DMA "affine table" destination, then discovering the honest rotating-plane model needed real multiplication, which drove adding MULU/MULS/DIVU/DIVS to the CPU and rebuilding the Galechase wind-skiff racer on top. Being a pure content addition, the static-site build picks it up with no engine or template changes. The commit also gitignored a new local-only `drafts/` directory for unpublished posts, which sits outside the build path; publishing is a matter of moving a draft into `src/markdown/` and rebuilding.
