@@ -83,7 +83,7 @@ All views expressed here are my own and not those of any employer (past, present
 
 ## Connect
 
-You can find me on [GitHub](https://github.com/EdwardAThomson) where I share code projects and contribute to open source, or connect professionally on [LinkedIn](https://www.linkedin.com/in/edward-thomson-080ba519/).
+You can find me on [GitHub](https://github.com/EdwardAThomson) where I share code projects and contribute to open source, or connect professionally on [LinkedIn](https://www.linkedin.com/in/edward-thomson-phd-msc-080ba519/).
 
 I'm generally open to messages from readers. If you have questions about any of the topics I write about, or thoughts on my creative work, feel free to reach out.
 
