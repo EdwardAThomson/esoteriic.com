@@ -1,5 +1,9 @@
 # Dev Log
 
+## 2026-07-13
+
+Fixed a stale LinkedIn profile URL that appeared in two places: the "connect professionally" link in `src/markdown/about.md` and the LinkedIn icon in the site-wide footer in `src/templates/main.html`. The old vanity slug (`edward-thomson-080ba519`) was updated to the current one (`edward-thomson-phd-msc-080ba519`) so both links resolve to the live profile. Because the footer lives in the outer template, this is one of the changes that touches every rendered page on the next build.
+
 ## 2026-07-09
 
 Published "When Not to Call the LLM: Instant Narration for DungeonGPT", a write-up of the tiered-narration work in the DungeonGPT-JS project. The post explains why routing every world-map move through the LLM was a triple loss (API cost, spinner latency, and silence for logged-out guests who are gated off the AI path), and how routine movement narration was moved into a local, deterministic `localNarrator.js` module: per-terrain template pools for arrival, revisit, and ambient lines, with all choices seeded from an FNV-1a hash of the world seed plus tile coordinates fed into mulberry32, so a reloaded save always reproduces the same log text. The LLM is reserved for the beats that actually deserve prose. As a pure addition under `src/markdown/`, the static-site build picks it up with no engine or template changes.
