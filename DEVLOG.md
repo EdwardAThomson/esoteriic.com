@@ -1,5 +1,11 @@
 # Dev Log
 
+## 2026-07-22
+
+Published "Testing a multiplayer on-chain game with competing AI agents", a long write-up of the adversarial self-play harness built for the xaya-roguelike project. The post tells the story of turning integration testing into competition: a single Playwright-driven heuristic agent (with BFS dungeon navigation) grew into a shared `agentcore.mjs` policy, a `multi.mjs` runner that races N agents in one on-chain world, and a referee loop asserting cross-player invariants (coordinate uniqueness, HP ranges, no players on nonexistent segments) against global GSP state. It also covers `compete.mjs`, which scripts the exact contested cases (coordinate races, provisional-access rules, reward isolation) with hard pass/fail assertions, and the "confirmed-segment free-transit" design fix the harness forced. A quick follow-up commit credited the Xaya GSP framework in the intro and added a closing note linking both source repos (xaya-roguelike and xaya-roguelike-frontend). As a pure content addition under `src/markdown/`, the build picks it up with no engine or template changes.
+
+**Decisions & notes:** The post's central lesson is that the hard part of multiplayer test harnesses is distinguishing genuine anomalies from legitimate competitive feedback (rejection is the feature), and that scripted assertions, not passive soaking, are what turn agent chaos into an actual test. Continues the blog's cadence of writing up work from the author's other projects.
+
 ## 2026-07-13
 
 Fixed a stale LinkedIn profile URL that appeared in two places: the "connect professionally" link in `src/markdown/about.md` and the LinkedIn icon in the site-wide footer in `src/templates/main.html`. The old vanity slug (`edward-thomson-080ba519`) was updated to the current one (`edward-thomson-phd-msc-080ba519`) so both links resolve to the live profile. Because the footer lives in the outer template, this is one of the changes that touches every rendered page on the next build.
