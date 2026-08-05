@@ -1,6 +1,6 @@
 ---
 title: "What a Harness Actually Buys You Over Calling the Model Directly"
-date: "2026-08-04"
+date: "2026-08-05"
 category: "artificial-intelligence"
 description: "Coding-agent harnesses add API round-trips on top of the model they wrap. I checked whether that costs more, and what you actually get for it."
 ---
