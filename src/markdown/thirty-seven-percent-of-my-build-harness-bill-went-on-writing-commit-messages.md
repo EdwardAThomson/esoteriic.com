@@ -91,3 +91,5 @@ The cost numbers are unaffected, because token counts and dollars are properties
 **Be careful what you claim to have timed.** Anything whose wall clock is dominated by a network call to somebody else's servers is not a benchmark of your change. Tokens are deterministic. Seconds are not.
 
 The final position: the commit step went from 37% of every run's bill to under 6%, on the same model, with cleaner messages than before. The bug it uncovered was in a sentence I wrote by hand months ago and never questioned, because until last week it had never been wrong.
+
+*Plimsoll is open on GitHub: [Plimsoll](https://github.com/EdwardAThomson/plimsoll).*
