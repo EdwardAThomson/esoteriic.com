@@ -41,6 +41,6 @@ If that's where a harness's real advantage lives, cost-per-task and pass-rate-on
 
 Not "a harness makes the model smarter." It doesn't. The case for harness is perhaps narrower and, I think, more durable: a harness lets the model check its own work instead of guessing, it does so without a meaningful cost premium once you account for how differently raw and tool-call-shaped generations spend tokens, and which harness you pick materially changes the outcome on harder tasks in ways a "just call the API" approach can't touch at all, because there's no self-correction loop to design well or badly. The autonomy case, running unattended over real time, is the one I believe most and can prove least, so far.
 
-At the moment I am creating my own harness as I want to have more understanding and control over running long-term autonomous operations.
+At the moment I am creating my own harness, [Plimsoll](https://github.com/EdwardAThomson/plimsoll), as I want to have more understanding and control over running long-term autonomous operations.
 
 *The full harness comparison and the eval data behind this post are open on GitHub: [agent-reviews](https://github.com/EdwardAThomson/agent-reviews).*

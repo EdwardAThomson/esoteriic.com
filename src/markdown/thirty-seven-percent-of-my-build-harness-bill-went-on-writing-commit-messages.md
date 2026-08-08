@@ -5,11 +5,9 @@ category: "artificial-intelligence"
 description: "A cost breakdown of my autonomous build harness Plimsoll turned up a step that writes two sentences of prose costing forty times more per token than the steps that write the code. Chasing why led somewhere other than the model, and exposed a second mistake along the way."
 ---
 
-# Thirty-Seven Percent of My Build Harness's Bill Went on Writing Commit Messages
-
 *Every figure below comes from four real runs and can be re-derived from their run databases.*
 
-I've been building an autonomous build loop called Plimsoll. You give it a prompt, it writes a spec, freezes a checklist, and then works through the items one at a time. Nothing gets marked done on trust: after each item, the harness actually runs a verify command against the code as just written, and only a real pass counts.
+I've been building an autonomous build loop called [Plimsoll](https://github.com/EdwardAThomson/plimsoll). You give it a prompt, it writes a spec, freezes a checklist, and then works through the items one at a time. Nothing gets marked done on trust: after each item, the harness actually runs a verify command against the code as just written, and only a real pass counts.
 
 Each item runs three steps: PREPARE looks around the repository, EXECUTE writes the code, COMMIT writes the commit message. The harness makes the actual git commit itself, mechanically. COMMIT has no tools. Its entire job is prose.
 
